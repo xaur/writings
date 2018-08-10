@@ -80,10 +80,10 @@ They can be easily reached almost any day. In addition, there is an active suppo
 
 * Decred mainnet is live since Feb 2016 and several fundamental promises are already delivered. It is not a whitepaper or promiseware temporary token.
 * It is in active development with dozens of developers around the world.
-* It is [resistant to hard forks] not approved by holders.
+* It is [resistant to hard forks](https://www.reddit.com/r/decred/comments/7f9ie1/detailed_analysis_of_decred_fork_resistance/) not approved by holders.
 * Clean, tested and documented codebase.
 
-The one and only network issue I remember happened last year when the network stalled due to a bug in software of several miners. It was resolved on Sunday (!) within hours. {Worth keeping?}
+The one and only network issue I remember happened last year when the network stalled due to a bug in software of several miners. It was resolved on Sunday (!) within hours. {TODO: Worth keeping?}
 
 ## Good PR
 
