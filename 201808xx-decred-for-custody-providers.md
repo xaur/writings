@@ -108,3 +108,5 @@ At the same time, we must acknowledge some current obstacles to massive non-cust
 We must also acknowledge that an individual is free to do whatever he wants with his possessions. If he [wishes](https://medium.com/@barmstrong/announcing-coinbase-custody-a-digital-currency-custodian-for-institutions-907166d7af85) to trust his funds to a professional, there is nothing to stop him.
 
 I personally think that as long as people have the choice to be their own bank, custody solutions do not present a problem and should be treated neutrally, or even slightly positive, as they extend the ecosystem and let more people use Decred.
+
+_Thanks to @Richard-Red and @Haon for review and feedback._
