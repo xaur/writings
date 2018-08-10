@@ -6,7 +6,7 @@ Key points for custody clients:
 
 * Client funds secured by robust tech
 * Stakeholder voting rights, have a say in project direction
-* Earn ~13% annual DCR rewards for voting
+* Earn DCR rewards for voting
 * Preserve value
 
 Key points for custody provider:
@@ -33,7 +33,7 @@ Clients who prefer security of their funds above everything else will love the f
 
 ## Voting rights and rewards
 
-Holding Decred grants voting rights that allow holders to influence how the network evolves technically, and in the near future how the project fund is spent. This requires holders to educate themselves and participate, but in return they receive ~13% annual DCR rewards. The number is approximate as of writing and is trending down, but annually 5-10% is expected even 2 years from now. The rewards mitigate supply inflation to a degree, unlike pure Proof of Work coins where all inflation goes to miners.
+Holding Decred grants voting rights that allow holders to influence how the network evolves technically, and in the near future how the project fund is spent. This requires holders to educate themselves and participate, but in return they currently receive ~14% annual DCR rewards. The number is approximate as of writing and is trending down, but annually 5-10% is expected even 2 years from now. The rewards mitigate supply inflation to a degree, unlike pure Proof of Work coins where all inflation goes to miners.
 
 To maximize participation and rewards users need to re-deposit chunks of DCR every 30 days on average. Each chunk is worth $4,500 as of writing. Large holdings result in many chunks that require re-depositing every day. To save from routine, users have a choice: either leave voting wallet running 24/7 for max rewards, or re-deposit manually on occasions. The latter removes the need to maintain an always running computer and increases security, at the cost of some rewards.
 
