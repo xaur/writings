@@ -33,7 +33,7 @@ Clients who prefer security of their funds above everything else will love the f
 
 ## Voting rights and rewards
 
-Holding Decred grants voting rights that allow to influence how the network evolves technically, and in the near future how the project fund is spent. This requires holders to educate themselves and participate, but in return they receive ~13% annual DCR rewards. The number is approximate as of writing and is trending down, but annual 5-10% is expected even 2 years from now. The rewards allow to compensate the supply inflation, unlike pure Proof of Work coins where all inflation goes to miners.
+Holding Decred grants voting rights that allow holders to influence how the network evolves technically, and in the near future how the project fund is spent. This requires holders to educate themselves and participate, but in return they receive ~13% annual DCR rewards. The number is approximate as of writing and is trending down, but annually 5-10% is expected even 2 years from now. The rewards mitigate supply inflation to a degree, unlike pure Proof of Work coins where all inflation goes to miners.
 
 To maximize participation and rewards users need to re-deposit chunks of DCR every 30 days on average. Each chunk is worth $4,500 as of writing. Large holdings result in many chunks that require re-depositing every day. To save from routine, users have a choice: either leave voting wallet running 24/7 for max rewards, or re-deposit manually on occasions. The latter removes the need to maintain an always running computer and increases security, at the cost of some rewards.
 
@@ -43,9 +43,9 @@ Custody provider is in the perfect position to maintain always running wallets t
 
 Decred is consistently in top positions in [% down from all-time high](https://onchainfx.com/v/nzhsrD) chart, and is number 1 if non-currencies are excluded.
 
-Clients of custodian service are likely to look for long term storage. Even if the service is perfectly executed, the health of the underlying asset is fundamental. In addition to technical factors noted above, these social and economic factors contribute to Decred's long term existence and prosperity:
+Clients of custodian services are likely to look for long term storage. Even if the service is perfectly executed, the health of the underlying asset is fundamental. In addition to technical factors noted above, these social and economic factors contribute to Decred's long term existence and prosperity:
 
-* The project is self-funding. As of writing, project fund holds $21 M worth of DCR and less than 20% were spent to date.
+* The project is self-funding, 10% of the block rewards go into a project fund. As of writing, the project fund holds $21 M worth of DCR, which is more than 80% of DCR that has accrued thus far.
 * Regulatory risk is lower compared to many tokens due to how the launch was organized (no ICO, tokens had no value at time of airdrop).
 * Dozens of active developers.
 * One of the least controversial projects in the space by the count of hacks, dramas, lawsuits, broken promises, and such.
@@ -66,7 +66,7 @@ There are two actions that Decred holder could possibly delegate to his custody 
 
 First is continuously re-deposit DCR to maximize voting participation and rewards. Currently users either run a hot wallet 24/7 or give up some rewards by re-depositing on occasions.
 
-Second is voting with the deposited DCR. Holder's voting wallet needs to be always online in order to quickly respond to call for vote from the network that happens at unpredictable time. Currently Decred holders pay 1-5% of their voting rewards to services that run voting wallets 24/7 for them.
+Second is voting with the deposited DCR. Each holder's voting wallet needs to be always online in order to quickly respond to calls to vote from the network that happen at unpredictable times. Currently Decred holders pay 1-5% of their voting rewards to services that run voting wallets 24/7 for them.
 
 Custody provider can charge fees for performing both actions on behalf of clients.
 
@@ -87,7 +87,7 @@ The one and only network issue I remember happened last year when the network st
 
 ## Good PR
 
-Decred tackles on hard problems: secure store of value and decentralized trustless decision making. Supporting innovative projects that deliver and stay around is a contribution to the whole space, and therefore a good substance for positive public outlook.
+Decred tackles on hard problems: secure store of value and decentralized trustless decision making. Supporting innovative projects that deliver and stay around is a contribution to the whole space, and therefore a good basis for positive public perception.
 
 # For Decred Project
 
