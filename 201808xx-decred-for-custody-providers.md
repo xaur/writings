@@ -2,7 +2,7 @@
 
 Here I explain why Decred is a perfect match for cryptocurrency custody providers. Key points come first so you can decide whether to read the details that follow.
 
-Key points for clients:
+Key points for custody clients:
 
 * Client funds secured by robust tech
 * Stakeholder voting rights, have a say in project direction
