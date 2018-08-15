@@ -37,7 +37,7 @@ Holders of Decred may choose to participate in the project's governance by time-
 
 Participation requires holders to educate themselves, temporarily lock their DCR for tickets, and decide how those tickets should vote on open issues. In return they receive rewards in DCR. The rewards mitigate supply inflation to a degree, unlike pure Proof of Work coins where all inflation goes to miners.
 
-As of writing the annualized rewards are ~14%. This number is not fixed. The more tickets one buys, the more predictable are the rewards. The percentage slowly decreases, but even 2 years from now 5-10% annual DCR rewards are possible.
+As of writing the annualized rewards are ~14%. This number is not fixed. The more tickets one buys, the more predictable are the rewards. The percentage slowly [decreases](https://docs.decred.org/advanced/inflation/), but even 2 years from now 5-10% annual DCR rewards are possible.
 
 Ticket price is set by market forces, a ticket currently costs 95 DCR or $3,300. To maximize influence and rewards one should buy new tickets as soon as old ones have voted. Large holdings result in high ticket turnover that requires action every day. Users have a choice: either have a hot wallet running 24/7 that buys new tickets automatically, or manually buy new tickets periodically. The latter removes the need to maintain an always running computer and is more secure, but at the cost of increased inconvenience or reduced participation.
 
