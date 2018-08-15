@@ -33,7 +33,9 @@ Clients who prioritize security of their funds will appreciate the following tec
 
 ## Voting rights and rewards
 
-Holders of Decred may choose to participate in the project's governance by time-locking DCR to buy tickets. Ticket-voting is Decred's way of making decisions about how the network [evolves technically](https://docs.decred.org/getting-started/user-guides/agenda-voting/), and in the near future how the project fund is spent. Tickets are called to vote on-chain randomly, 50% of tickets will vote in the first 30 days but some tickets will take longer to be called. When a ticket votes, the DCR locked to buy it is released, along with a reward. After 142 days, tickets that haven't voted expire, this happens to around 0.5% of tickets.
+Holders of Decred may choose to participate in the project's governance by time-locking DCR to buy tickets. Ticket-voting is Decred's way of making decisions about how the network [evolves technically](https://docs.decred.org/getting-started/user-guides/agenda-voting/), and in the near future how the project fund is spent.
+
+Tickets are called to vote randomly but on average this happens in 30 days. When a ticket votes, the DCR locked to buy it is released, along with a reward. Some tickets will take longer to be called. After 142 days, tickets that were not called expire and also return their DCR, this happens to around 0.5% of tickets.
 
 Participation requires holders to educate themselves, temporarily lock their DCR for tickets, and decide how those tickets should vote on open issues. In return they receive rewards in DCR. The rewards mitigate supply inflation to a degree, unlike pure Proof of Work coins where all inflation goes to miners.
 
@@ -41,7 +43,7 @@ As of writing the annualized rewards are ~14%. This number is not fixed. The mor
 
 Ticket price is set by market forces, a ticket currently costs 95 DCR or $3,300. To maximize influence and rewards one should buy new tickets as soon as old ones have voted. Large holdings result in high ticket turnover that requires action every day. Users have a choice: either have a hot wallet running 24/7 that buys new tickets automatically, or manually buy new tickets periodically. The latter removes the need to maintain an always running computer and is more secure, but at the cost of increased inconvenience or reduced participation.
 
-A custody provider is in the perfect position to maintain always running wallets that continuously re-deposit DCR and cast votes on behalf of clients.
+A custody provider is in the perfect position to maintain always running wallets that continuously buy tickets and cast votes on behalf of clients.
 
 For clients, this system is an opportunity to increase the value of their holdings by making good decisions about the future of Decred.
 
