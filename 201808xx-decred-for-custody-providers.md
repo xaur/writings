@@ -93,24 +93,4 @@ They can be easily reached almost any day. In addition, there is an active suppo
 
 Decred tackles hard problems: secure store of value and decentralized trustless decision making. Supporting innovative projects that deliver and stay around is a contribution to the whole space, and therefore a good basis for positive public perception. Decred itself has this philosophy of preferring approaches that benefit the space.
 
-# For Decred Project
-
-Key points:
-
-* Decred becomes accessible to more users
-* More engineers engage with Decred software, potentially give feedback and contribute
-* Good publicity
-
-Let's be fair for a moment. The idea behind cryptocurrency movement is to be your own bank and remove as much middlemen as possible. From this perspective custody may be seen as a step back. I would not expect it to be widely endorsed by the community, or recommended at decred.org. At least not without a big warning sign.
-
-At the same time, we must acknowledge some current obstacles to massive non-custodial cryptocurrency adoption:
-
-* Substantial learning curve
-* Software needs more UX, stability and safety improvements
-* Few people can use computers securely (non-Windows, non-Intel, etc)
-
-We must also acknowledge that an individual is free to do whatever he wants with his possessions. If he [wishes](https://medium.com/@barmstrong/announcing-coinbase-custody-a-digital-currency-custodian-for-institutions-907166d7af85) to trust his funds to a professional, there is nothing to stop him.
-
-I personally think that as long as people have the choice to be their own bank, custody solutions do not present a problem and should be treated neutrally, or even slightly positive, as they extend the ecosystem and let more people use Decred.
-
 _Thanks to @davecgh, @Haon and @Richard-Red for their feedback._
