@@ -54,9 +54,9 @@ Decred is consistently in top positions in [% down from all-time high](https://o
 Clients of custodian services are likely to look for long term storage. Even if the service is perfectly executed, the health of the underlying asset is fundamental. In addition to technical factors noted above, these social and economic factors contribute to Decred's long term existence and prosperity:
 
 * The project is self-funding, 10% of the block rewards go into a project fund. As of writing, the project fund holds $18 M worth of DCR, which is more than 80% of DCR that has accrued thus far.
-* Regulatory risk is lower compared to many tokens due to how the launch was organized (no ICO, tokens had no value at time of airdrop).
+* There was no ICO and no money was collected from investors.
 * Dozens of active developers.
-* One of the least controversial projects in the space by the count of hacks, dramas, lawsuits, broken promises, and such.
+* One of the least controversial projects in the space by the count of hacks, dramas or lawsuits.
 * The community is organically growing and helping each other.
 * More reasons why people choose Decred are collected in [this compilation](https://medium.com/decred/why-decred-let-the-community-tell-you-5479929e35d2) of community feedback.
 
@@ -95,4 +95,6 @@ They can be easily reached almost any day. In addition, there is an active suppo
 
 Decred tackles hard problems: secure store of value and decentralized trustless decision making. Supporting innovative projects that deliver and stay around is a contribution to the whole space, and therefore a good basis for positive public perception. Decred itself has this philosophy of preferring approaches that benefit the space.
 
-_This post is published on [medium.com](https://medium.com/decred/decred-for-custody-providers-57451f6e53e2). Thanks to @davecgh, @Haon and @Richard-Red for their feedback._
+_Published 2018-08-15 on [github.com](https://github.com/xaur/writings/blob/master/20180815-decred-for-custody-providers.md) and [medium.com](https://medium.com/decred/decred-for-custody-providers-57451f6e53e2). Updated 2018-08-27._
+
+_Thanks to @davecgh, @Haon and @Richard-Red for their feedback._
