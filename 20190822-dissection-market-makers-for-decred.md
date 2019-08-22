@@ -1,8 +1,11 @@
 ---
 published_utc: 2019-08-22
+updated_utc: 2019-08-22
 ---
 
 # Dissection: Market makers for Decred
+
+_Updated 2019-08-22: removed unverified claim (see [Updates](#updates))_
 
 This was a hard topic for me. As I realized later, for such big and important decisions there needs to be an [educational campaign](https://github.com/decred/dcrdocs/issues/971) before the proposals go live. I had to learn how it works, distill arguments, and reflect to build my own opinion.
 
@@ -100,7 +103,7 @@ Actually I lied, not everybody wins. MM smoothens the price curve. Traders who c
 The selling point of MM to "improve investors' experience" bugged me a lot so I had to dissect it. I narrowed it down to distaste for mere speculators, which triggered further thinking:
 
 - Speculator-type "investors" buy and sell with profit as their number one goal, sometimes the only goal. They won't care about Decred's mission and principles, they will sell as soon as they smell fire (and they are good at it!), they won't endure hard times with us, and while they do hold DCR they will be bad stakeholders: they will either make bad decisions (because they don't care what Decred is about) or make profit-driven decisions. It's even worse if they are big.
-- Many existing investors myself included somehow managed to get their DCR regardless of liquidity issues. A handy [recent example](https://twitter.com/bettercio/status/1163340116120625152): $3.5M was bought via OTC in just 4 days _without_ moving the global price at all.
+- Many existing investors myself included somehow managed to get their DCR regardless of liquidity issues.
 - If somebody has studied Decred but "poor liquidity" was the biggest factor that turned him off, it means other qualities of Decred were less important. To me they are _very_ likely a mere speculator. I may be wrong here, open to opinions.
 - For the above reasons I don't want to onboard them or comfort them. I don't care if they are "institutional" or not. I don't actively hate them, just don't want to spend any resources on them.
 - But I don't know how to filter them out without affecting everybody.
@@ -159,3 +162,7 @@ If we agree we want better liquidity, we agree (good) MM is doing useful work, a
 I don't have all the answers yet but I hope this has saved your time.
 
 Feedback is welcome.
+
+## Updates
+
+* 2019-08-22: removed [reference](https://twitter.com/bettercio/status/1163340116120625152) to a $3.5M OTC purchase of DCR because apparently it was ["virtual"](https://twitter.com/BetterCio/status/1161170932318134272), i.e. imaginary. Very confusing, I may put it back upon clarification.
