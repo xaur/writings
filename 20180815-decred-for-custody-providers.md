@@ -1,3 +1,9 @@
+---
+published_utc: 2018-08-15
+published_url: https://medium.com/decred/decred-for-custody-providers-57451f6e53e2
+updated_utc: 2018-08-27
+---
+
 # Decred for Custody Providers
 
 This document makes the case that Decred is a perfect match for cryptocurrency custody providers.
@@ -95,6 +101,4 @@ They can be easily reached almost any day. In addition, there is an active suppo
 
 Decred tackles hard problems: secure store of value and decentralized trustless decision making. Supporting innovative projects that deliver and stay around is a contribution to the whole space, and therefore a good basis for positive public perception. Decred itself has this philosophy of preferring approaches that benefit the space.
 
-_Published 2018-08-15 on [github.com](https://github.com/xaur/writings/blob/master/20180815-decred-for-custody-providers.md) and [medium.com](https://medium.com/decred/decred-for-custody-providers-57451f6e53e2). Updated 2018-08-27._
-
-_Thanks to @davecgh, @Haon and @Richard-Red for their feedback._
+_Thanks to @davecgh, @Haon and @richardred for their feedback._
