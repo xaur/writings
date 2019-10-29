@@ -11,7 +11,7 @@ The price keeps sliding down, social media follower counts are not growing, exce
 
 _(hoping for a catchy opener here)_
 
-Contracts for Ditto phase 2, Marketing 2019 and Events 2019 move to their end. Together with Ditto's phase 1, these 4 marketing proposals are collectively capped at $790,000 for ~1 year. (I deliberately use "capped" because we don't know how much was actually spent, but this is a separate problem*).
+Contracts for Ditto phase 2, Marketing 2019 and Events 2019 move to their end. Together with Ditto's phase 1, these 4 marketing proposals are collectively capped at $790,000 for ~1 year. (I deliberately use "capped" because we don't know how much was actually spent, but this is a separate problem*). Note that these expenses are happening at DCR rates that I find very low, so it costs a lot to the Treasury.
 
 The spendings brought us some good results but haven't yet addressed a few big concerns of mine. Thinking what we are missing I've been collecting ideas and organizing them in additional marketing strategies presented below.
 
