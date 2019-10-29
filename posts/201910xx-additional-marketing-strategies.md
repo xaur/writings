@@ -13,7 +13,7 @@ _(hoping for a catchy opener here)_
 
 Contracts for Ditto phase 2, Marketing 2019 and Events 2019 move to their end. Together with Ditto's phase 1, these 4 marketing proposals are collectively capped at $790,000 for ~1 year. (I deliberately use "capped" because we don't know how much was actually spent, but this is a separate problem*).
 
-I'm sensing dissatisfaction, concerns and demand for "alternative" marketing strategies. If that is the case, fine. But I hope to see this demand evolve into legit criticism that could shape next proposals (we need a budget for marketing, whatever it is), new perspectives, fresh ideas and workforce willing to make it happen. Otherwise we risk to keep cycling the FUD.
+I'm sensing dissatisfaction, concerns and demand for "alternative" marketing strategies. If that is the case, fine. But I hope to see this demand evolve into legit criticism that could show us new perspectives, bring fresh ideas, define our next steps and gather workforce willing to make it happen. Otherwise we risk to keep cycling the FUD.
 
 For enough time I've been thinking about _alternative_, or better, _complementary_ marketing strategies and it's time to share. They are based on the key points below.
 
