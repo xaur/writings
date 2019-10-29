@@ -15,7 +15,7 @@ Contracts for Ditto phase 2, Marketing 2019 and Events 2019 move to their end. T
 
 The spendings brought us some good results but haven't yet addressed a few big concerns of mine. Thinking what we are missing I've been collecting ideas and organizing them in additional marketing strategies presented below.
 
-**Keep marketing in check**
+## Keep marketing in check
 
 First of all we must know how efficient are our existing marketing efforts. To do that we need to _evaluate_ what was _done_ against certain _criteria_. The former requires _reporting_ and the latter requires defining _success metrics_.
 
@@ -48,7 +48,7 @@ Big events like Consensus are good to have presence at, but again did they bring
 
 Other metrics that naturally come to mind are social media stats: followers, views, likes, etc. I'll cover those in the section about social media.
 
-**Money**
+## Money
 
 Use "money" much more often _first_, and _later_ mention complex terms like "decentralized superior store of value for generations to come", "self-directed digital currency" or "Secure. Adaptable. Sustainable". Don't throw it away - it's all important and I'm glad we [figured it out](https://github.com/decredcommunity/pr/blob/release/foundational-messaging.md), just don't open with it.
 
@@ -60,7 +60,7 @@ Because I believe Decred's nearest [major goal](https://www.reddit.com/r/decred/
 
 (traders, apologies for using this metaphor right now)
 
-**Honesty**
+## Honesty
 
 Be honest about Decred's status. Always be ready to farily present what we _do_ and _do not_ have yet. Decred is _not_ a good SoV yet:
 
@@ -71,7 +71,7 @@ Be honest about Decred's status. Always be ready to farily present what we _do_ 
 
 We need clarity on the status. Decred is _building_ a decent SoV and MoE. We build on great principles and we got the incentives right. In this regard Decred is years ahead of the competition, and to me it is the only approach that makes sense and deserves my time. Decred also has a huge technical lead. I would say we're like 50% there in terms of tech, but in terms of awareness and adoption in economics and society it's &lt; 1%. (I made these numbers up for illustrative purposes).
 
-**Value transfer tool**
+## Value transfer tool
 
 Don't omit MoE use case from discussions. I believe SoV and MoE depend on each other and don't make any sense on their own*.
 
@@ -85,7 +85,7 @@ Internet allows people to share and coordinate information. Sound and open money
 
 I want to see Decred as a value transfer network for builders. It can start as [Hacker](http://www.catb.org/jargon/html/H/hacker.html)'s Coin* and evolve to connect other builders of this world.
 
-**Reach to people to whom it really matters**
+## Reach to people to whom it really matters
 
 Do builders and people who need a decent SoV and MoE visit crypto news sites and big crypto events? Sadly I have no idea.
 
@@ -95,7 +95,7 @@ There are many communities that are already aligned with Decred community's valu
 
 Reach like 100 of such communities and see if it makes a difference.
 
-**At the same time, don't panic**
+## At the same time, don't panic
 
 We should keep our heads cool at any price. I'm not saying Ditto or Marketing 2019 is doing useless work or is overpriced. I just don't know. All I see is we need _more_ to move this old trend where Decred is some obscure tech brilliance.
 
