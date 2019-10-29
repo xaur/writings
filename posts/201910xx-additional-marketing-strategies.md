@@ -33,7 +33,6 @@ Be honest about Decred's status. Always be ready to farily present what we _do_ 
 
 - It has low liquidity and exchange adoption.
 - Self-custody UX is a huge pain point. Like in all crypto.
-- It is more complex than Bitcoin - more to learn.
 - Privacy is not solved yet. I would even argue that voting address reuse made it _less private_ than Bitcoin. Glad to see it is being addressed now.
 - Also important, and let's not ignore it, the price is sliding down. People _will_ get puzzled if you tell them about SoV and monetary premiums and then show the price chart where it is losing not only against USD, but _also_ against BTC*.
 
