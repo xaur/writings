@@ -15,6 +15,39 @@ Contracts for Ditto phase 2, Marketing 2019 and Events 2019 move to their end. T
 
 The spendings brought us some good results but haven't yet addressed a few big concerns of mine. Thinking what we are missing I've been collecting ideas and organizing them in additional marketing strategies presented below.
 
+**Keep marketing in check**
+
+First of all we must know how efficient are our existing marketing efforts. To do that we need to _evaluate_ what was _done_ against certain _criteria_. The former requires _reporting_ and the latter requires defining _success metrics_.
+
+Ditto proposal reports [twice a month](https://github.com/decredcommunity/proposals/tree/master/pr-ditto/updates), which is amazing and is a great example to all proposals.
+
+Marketing and Events proposals _kind of_ report via monthly summaries in Decred Journal but it's far from what I'd like to see. Besides distinct deliverables like Decred Assembly or Decred in Depth releases, summaries for Marketing have incomplete and unclear coverage of how items outlined in the [proposal](https://proposals.decred.org/proposals/c84a76685e4437a15760033725044a15ad832f68f9d123eb837337060a09f86e) are progressing. As for Events, the high level reporting is not robust because the summaries are collected by DJ authors and not by proposal owners, and there is no established reporting practice yet. Some people submit full [event reports](https://github.com/decredcommunity/events) (thanks, keep it up!), some post messages in the #events chat room and some don't post explicit reports at all. Sadly, the most expensive events like Consensus are the least willing to report, while the majority of reports comes from smaller low budget events. I would exect a bit more active updates from budgets of this size.
+
+Note that I'm only judging reporting here, not achievements. I see marketing achievements all the time. The problem is I don't know which results were funded by which proposals, I don't have a good overview of results. How can we evaluate efficiency without a convenient, thorough and up-to-date summary of the results we evaluate?
+
+When it comes to success metrics, there were fair calls to establish those even before we approved the proposals. The problem I saw back then is that numbers can be gamed or may not represent important things. I viewed those proposals as an experiment that we can only begin to evalute after we do it for some time and collect some results. Now is a good time.
+
+I'd like to see more data on how efficient was spending resources on traditional media.
+
+Something I hoped Decred would achieve with Ditto's help is a significant amount of coverage from the ["big boys"](https://bitcoinexchangeguide.com/cryptocurrency-news-websites/) like CoinDesk and CoinTelegraph.
+
+I wouldn't compare with old and well known topics Bitcoin or Ethereum, but let's compare with smaller projects that seem to have paid PR as well - Stellar and Zcash. For data points let's take the count of tagged articles in 2019:
+
+site|Stellar|Zcash|Decred
+:--|--:|--:|--:
+CoinDesk|[10](https://www.coindesk.com/tag/stellar)|[19](https://www.coindesk.com/tag/zcash)|[3](https://www.coindesk.com/tag/decred)
+CoinTelegraph|[10](https://cointelegraph.com/tags/stellar)|[34](https://cointelegraph.com/tags/zcash)|[2](https://cointelegraph.com/tags/decred)
+BTCManager|[3](https://btcmanager.com/tag/stellar/)|[13](https://btcmanager.com/tag/zcash/)|[1](https://btcmanager.com/tag/decred/)
+InvestInBlockchain|[26](https://www.investinblockchain.com/tag/stellar/)|[2](https://www.investinblockchain.com/tag/zcash/)|[6](https://www.investinblockchain.com/tag/decred/)
+
+There must be reasons why Decred is not mentioned in major media as often as it should, and I'd like to know those reasons. More importantly, I'd like to know if they worth our time.
+
+More media placements is always good, especially in big places. But crypto sites generate crypto articles all the time. Does Decred stand out from hundreds of other coins covered every day? Do we have any view count stats? Did we onboard any significant number of users or investors or 1-2 good devs fia Forbes, Yahoo Finance or CoinDesk?
+
+Big events like Consensus are good to have presence at, but again did they bring us anything?
+
+Other metrics that naturally come to mind are social media stats: followers, views, likes, etc. I'll cover those in the section about social media.
+
 **Money**
 
 Use "money" much more often _first_, and _later_ mention complex terms like "decentralized superior store of value for generations to come", "self-directed digital currency" or "Secure. Adaptable. Sustainable". Don't throw it away - it's all important and I'm glad we [figured it out](https://github.com/decredcommunity/pr/blob/release/foundational-messaging.md), just don't open with it.
@@ -54,13 +87,7 @@ I want to see Decred as a value transfer network for builders. It can start as [
 
 **Reach to people to whom it really matters**
 
-More media placements is always good, especially in big places. But crypto sites generate crypto articles all the time. Does Decred stand out from hundreds of other coins covered every day? Do we have any view count stats? Did we onboard any significant number of users or investors or 1-2 good devs fia Forbes, Yahoo Finance or CoinDesk?
-
-Big events like Consensus are good to have presence at, but again did they bring us anything?
-
-Do builders and people who need a decent SoV and MoE visit those sites and events at all?
-
-Sadly I have no idea.
+Do builders and people who need a decent SoV and MoE visit crypto news sites and big crypto events? Sadly I have no idea.
 
 A complementary strategy I would seriously consider is targeted outreach to selected and very relevant groups*. Not automated advertising but targeted awareness push. Train quality representatives/ambassadors, go to these communities and let them know what we're building, and stay in touch in case they wish to learn more.
 
