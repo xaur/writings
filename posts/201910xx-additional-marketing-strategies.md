@@ -89,13 +89,19 @@ Internet allows people to share and coordinate information. Sound and open money
 
 I want to see Decred as a value transfer network for builders. We can start small and heavily tip each other for good contributions\*\*. Then it could become [Hacker](http://www.catb.org/jargon/html/H/hacker.html)'s Coin\*, and then evolve to connect other builders of this world.
 
-## Reach to people to whom it really matters
+## Reach people to whom it really matters
 
-Do builders and people who need a decent SoV and MoE visit crypto news sites and big crypto events? Sadly I have no idea.
+Do builders, investors and people who _already_ understand and need a decent SoV/ToV/MoE visit crypto news sites and big crypto events? I have no idea.
 
-A complementary strategy I would seriously consider is targeted outreach to selected and very relevant groups*. Not automated advertising but targeted awareness push. Train quality representatives/ambassadors, go to these communities and let them know what we're building, and stay in touch in case they wish to learn more.
+A strategy I think we should try is direct outreach to very relevant groups\*. Not the annoying automated banner ads that reasonable people block anyways, but manual targeted awareness campaigns.
 
-There are many communities that are already aligned with Decred community's values yet we don't actively talk to them. Just to name a few topics, I mean communities and groups who deeply care about sovereignty, financial sovereignty, unorthodox (non-brainwashed) economic schools, sound monetary policy (and alternatives/complements to their weak currencies), building and maintaining open source/free software (and hardware!) where it is needed most, privacy, building better protocols and services without "surveillance included", small government proponents, off-grid living, etc.
+This strategy is radically different from waiting for mass media readers to grow up and become interested in such boring things like sound and fair money, sovereignty or governance. It is directly coming to people who are already there (and likely don't read mass media).
+
+There are many communities that are already aligned with Decred community's values yet we don't actively talk to them. Just to name a few topics, I mean groups who deeply care about: sovereignty, financial sovereignty, unorthodox (non-brainwashed) economic schools, sound monetary policy, building and maintaining critical open source/free software (and hardware!), privacy, building better protocols and services without "surveillance included", small government, stopping consumer/short-term/waste culture, off-grid living, etc.
+
+My theory is that these people are much closer to understand and appreciate Decred, and are more likely to become users/supporters/stakeholders.
+
+To prepare, train quality representatives/[ambassadors](https://github.com/decredcommunity/issues/issues/48) and craft any missing [messaging](https://github.com/decredcommunity/pr) to address those groups. Then go to them and let them know what we're building, and stay in touch in case they wish to learn more.
 
 Reach like 100 of such communities and see if it makes a difference.
 
