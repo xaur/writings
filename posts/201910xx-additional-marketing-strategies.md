@@ -66,14 +66,14 @@ Because I believe Decred's nearest [major goal](https://www.reddit.com/r/decred/
 
 ## Honesty
 
-Be honest about Decred's status. Always be ready to farily present what we _do_ and _do not_ have yet. Decred is _not_ a good SoV yet:
+Be honest about Decred's status. Always be ready to farily present what we _do_ and _do not_ have yet. Decred is _not_ a good SoV today:
 
-- It has low liquidity and exchange adoption. On the positive side, we get new integrations every month and liquidity fix is getting closer.
+- It has low liquidity and low exchange adoption. We do get new integrations every month and liquidity fix is getting closer, but it's a long road.
 - Self-custody UX is a huge pain point. Like in all crypto.
-- [Privacy](https://github.com/decredcommunity/issues/issues/25) is not solved yet. I would even argue that voting [address reuse](https://github.com/decred/dcrstakepool/issues/311) made it _less private_ than Bitcoin. Glad to see it getting attention now because it is required for Decred's CoinShuffle++ rollout. This has potential to provide much greater and more accessible privacy than in Bitcoin. 
-- Also important, and let's not ignore it, the price is sliding down. People _will_ get puzzled if you tell them about SoV and then show the price chart where it is losing not only against USD, but _also_ against BTC*.
+- [Privacy](https://github.com/decredcommunity/issues/issues/25) is not solved yet. I would argue that voting [address reuse](https://github.com/decred/dcrstakepool/issues/311) made Decred _less private_ than Bitcoin. Glad to see it getting attention now because it is required for Decred's CoinShuffle++ rollout. This has potential for much greater and more accessible privacy than in Bitcoin. 
+- Also important, and let's not ignore it, the price is down. People _will_ get puzzled if you tell them about SoV and then show the price chart where it is losing not only against USD, but _also_ against BTC\*.
 
-We need clarity on the status. Decred is _building_ a decent SoV and MoE. We build on great principles and we got the incentives right. In this regard Decred is years ahead of the competition, and to me it is the only approach that makes sense and deserves my time. Decred also has a huge technical lead. I would say we're like 50% there in terms of tech, but in terms of awareness and adoption in economics and society it's &lt; 1%. (I made these numbers up for illustrative purposes).
+We need clarity on the status. Decred is _building_ a decent SoV and MoE. We build on great _principles_ and we got the incentives right. In this regard Decred is years ahead of the competition, and to me it is the only approach that makes sense and deserves my time. Decred also has a huge lead in technical fundamentals. I would say we're like 40% there in terms of tech, but in terms of awareness and adoption in the economy and society it's &lt; 1%. (I made these numbers up for illustrative purposes).
 
 ## Value transfer tool
 
