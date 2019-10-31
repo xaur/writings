@@ -25,7 +25,7 @@ Marketing and Events proposals _kind of_ report via monthly summaries in Decred 
 
 Note that I'm only judging reporting here, not achievements. I see marketing achievements all the time. The problem is I don't know which results were funded by which proposals, I don't have a good overview of results. How can we evaluate efficiency without a convenient, thorough and up-to-date summary of the results we evaluate?
 
-When it comes to success metrics, there were fair calls to establish those even before we approved the proposals. The problem I saw back then is that numbers can be gamed or may not represent important things. I viewed those proposals as an experiment that we can only begin to evalute after we do it for some time and collect some results. Now is a good time.
+When it comes to success metrics, there were fair calls in [Ditto 1](https://proposals.decred.org/proposal/27f87171d98b7923a1bd2bee6affed929fa2d2a6e178b5c80a9971a92a5c7f50/comments/35), [Ditto 2](https://proposals.decred.org/proposal/52ea110ea061c72d3b31ed2f5635720b212ce5e3eaddf868d60f53a3d18b8c04/comments/1) and [Marketing](https://proposals.decred.org/proposal/c84a76685e4437a15760033725044a15ad832f68f9d123eb837337060a09f86e/comments/23) to establish those even before we approved the proposals. The problem I saw back then is that numbers can be gamed or may not represent important things. I viewed those proposals as an experiment that we can only begin to evalute after we do it for some time and collect some results. Now is a good time.
 
 I'd like to see more data on how efficient was spending resources on traditional media.
 
@@ -42,9 +42,13 @@ InvestInBlockchain|[26](https://www.investinblockchain.com/tag/stellar/)|[2](htt
 
 There must be reasons why Decred is not mentioned in major media as often as it should, and I'd like to know those reasons. More importantly, I'd like to know if they worth our time.
 
-More media placements is always good, especially in big places. But crypto sites generate crypto articles all the time. Does Decred stand out from hundreds of other coins covered every day? Do we have any view count stats? Did we onboard any significant number of users or investors or 1-2 good devs fia Forbes, Yahoo Finance or CoinDesk?
+More media placements is always good, especially in big places. But crypto sites generate crypto articles all the time. Does Decred stand out from hundreds of other coins covered every day? Do we have any view count stats? Did we onboard any significant number of users or investors or devs fia Forbes, Yahoo Finance or CoinDesk?
+
+To be fair, we got @cryptoleslie via Forbes which is huge.
 
 Big events like Consensus are good to have presence at, but again did they bring us anything?
+
+Some use price as the metric and "bull market" was mentioned in [Ditto 2](https://proposals.decred.org/proposal/52ea110ea061c72d3b31ed2f5635720b212ce5e3eaddf868d60f53a3d18b8c04) but as of writing we've seen the opposite.
 
 Other metrics that naturally come to mind are social media stats: followers, views, likes, etc. I'll cover those in the section about social media.
 
