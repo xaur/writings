@@ -105,6 +105,47 @@ To prepare, train quality representatives/[ambassadors](https://github.com/decre
 
 Reach like 100 of such communities and see if it makes a difference.
 
+## Grow our social media
+
+Social media stats are posted regularly in DJ and I [posted](https://proposals.decred.org/proposal/52ea110ea061c72d3b31ed2f5635720b212ce5e3eaddf868d60f53a3d18b8c04/comments/32) an overview on Politeia. Let's look at latest bi-monthly numbers to save space:
+
+platform|Dec 18|Feb 19|Apr 19|Jun 19|Aug 19|Oct 19
+---|--:|--:|--:|--:|--:|--:
+[Twitter](https://twitter.com/decredproject)|40,004|39,808|40,309|40,462|40,572|40,578
+[Reddit](https://www.reddit.com/r/decred/)|9,131|9,330|9,405|9,459|9,556|9,631
+[Facebook](https://www.facebook.com/decredproject)|3,105|3,132|3,165|3,219|3,253|3,278
+[YouTube](https://www.youtube.com/decredchannel)|3,736|3,752|3,764|3,769|3,800|3,830
+[Matrix](https://chat.decred.org)|203|247|284|337|384|436
+[Slack](https://slack.decred.org)|6,353|6,529|6,639|6,721|6,809|6,851
+Discord|||2,124|2,257|2,377|2,487
+
+For an example of a successful individual account, between Jan and Oct 2019 Murad's [Twitter](https://twitter.com/MustStopMurad) went from [31K](https://archive.today/0V21f) to [66K](https://archive.today/2n26G) followers. Among projects, [BAT](https://twitter.com/attentiontoken) gained 107K followers since Mar 2017 (it's younger than Decred).
+
+Social media has become extremely important. I bet part of the reason is that traditional media has failed at its job of informing people of important things without garbage biases and pay-to-play games. There are news groups and business who operate and grow through social media alone.
+
+I don't really like existing social media because they are all centralized and march towards censorship of "wrong" ideas. I hope the decentralization movement will build better ones. But to spread awareness today we need good representation today's platforms, just as we need fiat on/off ramps for crypto until most of the world starts accepting it.
+
+Every month there's an inflow and outflow of followers. If you sit and do nothing you'll slowly lose them. Decred staying flat is not too bad but it needs to grow. I don't know what we're doing wrong but we need to figure it out.
+
+A good recent trend is that Ditto began to actively mobilize our community to make an impact on social media. But it should reflect on follower counts, right?
+
+We often focus on Twitter but we really need to think beyond this one platform. Quoting @pablito's DCR Comic [proposal](https://proposals.decred.org/proposals/2ef74fa5f0b558442cb85b1235c8c551a51ff5d8b8de44dead48b8b59c8fc1de):
+
+> According to [latest stats](https://www.pewresearch.org/fact-tank/2019/04/10/share-of-u-s-adults-using-social-media-including-facebook-is-mostly-unchanged-since-2018/) by the Pew Research Center, Facebook (69%) and YouTube (73%) are the most widely used online platforms among U.S. adults. Instagram is used by 37% but has showed the most growth in the last 3 years. Twitter is lagging behind with just 22% and has declined since 2018. Among 18-to-24-year-old Instagram's popularity has reached 75% and YouTube is leading the way with 90%. Twitter usage among this age group is at 44%.
+>
+> In Brazil, LATAM's most populous country and one of Decred's main development hubs, 95% of Internet users use YouTube, 89% use WhatsApp and 71% use Instagram, but only 43% use Twitter; according to the 2019 Global Web Index published by Hootsuite.
+
+Based on the above, I think we should
+
+- Learn: how did Murad gain so many followers?
+- Set up guidelines how to grow communities (in progress).
+- Set up funding. Many accounts are [outdated](https://github.com/decredcommunity/textassets) and haven't posted for a long time. A successful account requires a ton of consistent work to maintain a healthy pulse of updates and to talk to its community. Without solid funding and coordination our accounts will be dusty and rely on volunteers that come and go.
+- Maybe hire an [SMM](https://en.wikipedia.org/wiki/Social_media_marketing) professional?
+- Put more effort in YouTube and Facebook - both have only about 3K followers.
+- Set up less popular but more promising platforms like Mastodon or those YouTube replacements. They might have higher "conversion" ratio, and if they succeed and obsolete centralized platforms, we'll be in a good position for being among the pioneers.
+- Find out inflow and outflow numbers for all platforms.
+- Set up stats collection and visualization and make the data available to our researchers. This was one of the proposed [research directions](https://proposals.decred.org/proposals/5d9cfb07aefb338ba1b74f97de16ee651beabc851c7f2b5f790bd88aea23b3cb/comments/13) but it didn't collect enough upvotes. I think it's still relevant.
+
 ## At the same time, don't panic
 
 We should keep our heads cool at any price. I'm not saying Ditto or Marketing 2019 is doing useless work or is overpriced. I just don't know. All I see is we need _more_ to move this old trend where Decred is some obscure tech brilliance.
