@@ -77,17 +77,17 @@ We need clarity on the status. Decred is _building_ a decent SoV and MoE. We bui
 
 ## Value transfer tool
 
-Don't omit MoE use case from discussions. I believe SoV and MoE depend on each other and don't make any sense on their own*.
+Don't omit MoE use case from discussions. I believe SoV and MoE depend on each other and don't make sense individually\*.
 
-While DCR is not ready to serve our everyday purchases, it _already_ serves as Transfer of Value (ToV)*.
+While DCR is not ready to serve our everyday purchases, it _already_ serves as Transfer of Value (ToV) - the missing step between SoV and MoE\*.
 
-Decred and some other cryptos could and should be used _today_ to power great projects we need ASAP*.
+Decred and other coins could and should be used _today_ to power great projects that solve urgent problems\*.
 
-I personally use DCR to support one project I find very promising and it feels so right with every transfer**, instead of just hoarding my DCR. The project is [EOMA68](https://www.crowdsupply.com/eoma68/micro-desktop) and it is building an ecosystem of open, easily upgradeable and cheap computers (pluggable "computer cards"). A computer must serve its _owner_, be auditable down to the bone to earn owner's trust, be upgradeable to encourage reuse, and the whole ecosystem must be designed with long-term mindset to reduce e-waste. We need secure devices that we can trust. Or are you going to run sovereign decentralized finance on backdoored laptops and phones? But that's another story*.
+I personally use DCR to support one very promising project and it feels so right with every transfer\*\*, compared to just hoarding my DCR. The project is [EOMA68](https://www.crowdsupply.com/eoma68/micro-desktop) and it is building open, upgradeable and cheap computers (pluggable "computer cards"). A computer must serve its _owner_, be auditable down to the bone to earn owner's trust, be upgradeable to encourage reuse, and the whole ecosystem must be designed with long-term mindset to reduce waste. It's a long road but we need secure devices that we can trust. Or are you going to run sovereign decentralized finance on backdoored laptops and phones? But that's another story\*.
 
 Internet allows people to share and coordinate information. Sound and open money allows people to share and coordinate energy.
 
-I want to see Decred as a value transfer network for builders. It can start as [Hacker](http://www.catb.org/jargon/html/H/hacker.html)'s Coin* and evolve to connect other builders of this world.
+I want to see Decred as a value transfer network for builders. We can start small and heavily tip each other for good contributions\*\*. Then it could become [Hacker](http://www.catb.org/jargon/html/H/hacker.html)'s Coin\*, and then evolve to connect other builders of this world.
 
 ## Reach to people to whom it really matters
 
