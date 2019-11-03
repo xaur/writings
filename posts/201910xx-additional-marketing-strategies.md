@@ -149,6 +149,25 @@ Based on the above, I think we should
 - Set up stats collection and visualization and make the data available to our researchers. This was one of the proposed [research directions](https://proposals.decred.org/proposals/5d9cfb07aefb338ba1b74f97de16ee651beabc851c7f2b5f790bd88aea23b3cb/comments/13) but it didn't collect enough upvotes. I think it's still relevant.
 - Look into sentiment analysis [like this](https://www.reddit.com/r/decred/comments/dq79s8/decred_social_stats/) (there are several projects mining this kind of data).
 
+## Leverage others' social media
+
+There are many personalities with large and/or highly relevant social media following, both in the crypto scene and beyond.
+
+We have began engaging with crypto celebs on Twitter. Not without some coordination help from Ditto, and more guidance is being developed.
+
+I suggest to not limit ourselves to Twitter and in general to the crypto scene that I believe is still quite of an echo chamber. Instead, engage with anyone who could benefit from Decred _today_.
+
+Let's look at YouTube. PewDiePie recently broke 100 million subscribers despite the legacy media trying to crush him with their rigged games. Even YouTube itself, instead of actively supporting their biggest celebrity, often demonetized his videos for lame reasons. This happens to many, many content creators and "because of the YouTube algorithm" is a meme now, hinting at the opaque rules of the platform. One [study](https://twitter.com/coffeebreak_YT/status/1130854871370878977) exposed how "edgy" content is being suppressed in the U.S. and how legacy media gets into ["Trending"](https://support.google.com/youtube/answer/7239739?hl=en) with much lower effort. Tubers often joke about their own demonetization and actively sell merch to not depend on YouTube payouts too much. In attempts to remove YouTube's cryptic "algorithm" from financial relationships with their audience some use Patreon to get funded "directly". But recent history has shown that if you have wrong ideas you can get [deplatformed](https://bitcoinist.com/patreon-mastercard-ban-bitcoin/) for extremely lame reasons, and get that funding channel cut.
+
+Now, any crypto user watching that would roll his eyes: "Just use crypto, goddamnit! Throw these middlemen out of the window! Connect with your folks directly!". Believe it or not, most content creators still don't know about crypto and depend on ad revenues. I guess people who experienced "specifics" of these platforms firsthand will be the first to discover crypto, but why wait? It can serve them today.
+
+(Stealing people's attention to show them random garbage is a horrible idea and crypto has a chance to nuke it, but that's another story\*.)
+
+A few vectors I would try:
+
+- Buy these new "manual ads" from YouTubers where they read it themselves with their voice, often in an entertaining way. This is quite different from random old school annoying banners or just as annoying video ads injected by YouTube. If they already advertise the eToro crypto trading platform, why couldn't Decred be there? 
+- Suggest DCR to content creators as an extra channel to receive donations, as a way to connect with their followers more directly, and as a backup in case of any misbehavior from the gatekeepers. They will need our consulting to breach the conceptual and setup barrier.
+
 ## At the same time, don't panic
 
 We should keep our heads cool at any price. I'm not saying Ditto or Marketing 2019 is doing useless work or is overpriced. I just don't know. All I see is we need _more_ to move this old trend where Decred is some obscure tech brilliance.
