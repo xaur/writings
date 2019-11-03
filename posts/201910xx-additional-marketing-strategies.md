@@ -11,11 +11,11 @@ The price keeps sliding down, social media follower counts are not growing, exce
 
 _(hoping for a catchy opener here)_
 
-Contracts for Ditto phase 2, Marketing 2019 and Events 2019 move to their end. Together with Ditto's phase 1, these 4 marketing proposals are collectively capped at $790,000 for ~1 year. (I deliberately use "capped" because we don't know how much was actually spent, but this is a separate problem*). Note that these expenses are happening at DCR rates that I find very low, so it costs a lot to the Treasury.
+Contracts for Ditto phase 2, Marketing 2019 and Events 2019 move to their end. Together with Ditto's phase 1, these 4 marketing proposals are collectively capped at $790,000 for ~1 year. (I deliberately use "capped" because we don't know how much was actually spent, but this is a separate problem\*). Note that these expenses are happening at DCR rates that I find very low, so it costs a lot to the Treasury.
 
 The spendings brought us some good results but haven't yet addressed a few big concerns of mine. Thinking what we are missing I've been collecting ideas and organizing them in additional marketing strategies presented below.
 
-## Keep marketing in check
+## Evaluate existing work
 
 First of all we must know how efficient are our existing marketing efforts. To do that we need to _evaluate_ what was _done_ against certain _criteria_. The former requires _reporting_ and the latter requires defining _success metrics_.
 
@@ -87,7 +87,9 @@ I personally use DCR to support one very promising project and it feels so right
 
 Internet allows people to share and coordinate information. Sound and open money allows people to share and coordinate energy.
 
-I want to see Decred as a value transfer network for builders. We can start small and heavily tip each other for good contributions\*\*. Then it could become [Hacker](http://www.catb.org/jargon/html/H/hacker.html)'s Coin\*, and then evolve to connect other builders of this world.
+I want to see Decred as a value transfer network for builders. We can start small and just tip each other for good contributions\*\*. We can develop a habit to actively reach out to the author and offer a DCR tip when we enjoyed content or a service. (This increase in wallet usage will have a nice side effect of finding more UX bugs.) Then it could become a [Hacker](http://www.catb.org/jargon/html/H/hacker.html)'s Coin\*, and then expand to connect other builders of this world.
+
+It must flow.
 
 ## Reach people to whom it really matters
 
@@ -145,6 +147,7 @@ Based on the above, I think we should
 - Set up less popular but more promising platforms like Mastodon or those YouTube replacements. They might have higher "conversion" ratio, and if they succeed and obsolete centralized platforms, we'll be in a good position for being among the pioneers.
 - Find out inflow and outflow numbers for all platforms.
 - Set up stats collection and visualization and make the data available to our researchers. This was one of the proposed [research directions](https://proposals.decred.org/proposals/5d9cfb07aefb338ba1b74f97de16ee651beabc851c7f2b5f790bd88aea23b3cb/comments/13) but it didn't collect enough upvotes. I think it's still relevant.
+- Look into sentiment analysis [like this](https://www.reddit.com/r/decred/comments/dq79s8/decred_social_stats/) (there are several projects mining this kind of data).
 
 ## At the same time, don't panic
 
@@ -159,7 +162,7 @@ To stay cool, focused and productive (you want the change or what?) I recommend:
   - Small **working groups** is okay (we have a ton of them), I'm against **discussing** important issues and hiding efforts to address them in private groups.
   - It is in the best interest of any new effort to get as many eyeballs and support as possible, which can (and should) lead to support from the Treasury and "conversion" of your "competitors".
   - Focus on problems, decisions and actions, not personalities. This is what our direct voting is about, remember?
-  - Do not fear to communicate, share and negotiate*.
+  - Do not fear to communicate, share and negotiate\*.
   - There are cases when sensitive information must not be disclosed until a certain point, but after that point open discussions must flow.
 - Stay sober, do not overfocus on _some_ negative trends (price, social media metrics) and become blind to positive trends (more conversations about Decred, more investors, more devs, more research, more events all over the world, network is healthy, dev never stops, etc - I hope you read [DJ](https://xaur.github.io/decred-news/)!)
 
@@ -167,6 +170,6 @@ Phew! That was quick typing. Looks like these ideas got tired of sitting in my h
 
 Thanks for your precious attention!
 
-If you see value in my perspective, or would like to signal that I should finish my drafts (*) sooner, or if you would like to experience the joy of permissionless value transfer (**), I'll happily accept tips here:
+If you see value in my perspective, or would like to signal that I should finish my drafts (\*) sooner, or if you would like to experience the joy of permissionless value transfer (\*\*), I'll happily accept tips here:
 
 {D...}
