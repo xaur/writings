@@ -54,7 +54,7 @@ Other metrics that naturally come to mind are social media stats: followers, vie
 
 ## Money
 
-Use "money" much more often. When explaining Decred open with "money" and _later_ mention complex terms like "decentralized superior store of value for generations to come", "self-directed digital currency" or "Secure. Adaptable. Sustainable". Don't throw that away - it's all important and I'm glad we [figured it out](https://github.com/decredcommunity/pr/blob/release/foundational-messaging.md). Just don't start with concepts so distant from everyday life. "Money" sounds stronger than "currency".
+Use "money" much more often. When explaining Decred open with "money" or "sound money" and _later_ mention complex terms like "decentralized superior store of value for generations to come", "self-directed digital currency" or "Secure. Adaptable. Sustainable". Don't throw that away - it's all important and I'm glad we [figured it out](https://github.com/decredcommunity/pr/blob/release/foundational-messaging.md). Just don't start with concepts so distant from everyday life. "Money" sounds stronger than "currency".
 
 Talk about what's going on with traditional money\*. Why prices keep going up despite all our technological progress? Talk about the financial crisis of 2008. Remind when and why Bitcoin launched and what did it have in its first block. Talk about the new QE round from the ECB (is it 4th?) and its-not-QE4-stay-calm from the FRB. Make people look at the bills and cards they use _every day_, and for the first time _think_ where they come from, who creates it and for how long this can keep going until the next major "oopsie".
 
@@ -75,19 +75,23 @@ Be honest about Decred's status. Always be ready to farily present what we _do_ 
 
 We need clarity on the status. Decred is _building_ a decent SoV and MoE. We build on great _principles_ and we got the incentives right. In this regard Decred is years ahead of the competition, and to me it is the only approach that makes sense and deserves my time. Decred also has a huge lead in technical fundamentals. I would say we're like 40% there in terms of tech, but in terms of awareness and adoption in the economy and society it's &lt; 1%. (I made these numbers up for illustrative purposes).
 
-## Value transfer tool
+## Value transfer network
 
-Don't omit MoE use case from discussions. I believe SoV and MoE depend on each other and don't make sense individually\*.
+Don't omit medium of exchange (MoE) use case from discussions. I believe SoV and MoE depend on each other and don't make sense individually\*.
 
 While DCR is not ready to serve our everyday purchases, it _already_ serves as Transfer of Value (ToV) - the missing step between SoV and MoE\*.
 
 Decred and other coins could and should be used _today_ to power great projects that solve urgent problems\*.
 
-I personally use DCR to support one very promising project and it feels so right with every transfer\*\*, compared to just hoarding my DCR. The project is [EOMA68](https://www.crowdsupply.com/eoma68/micro-desktop) and it is building open, upgradeable and cheap computers (pluggable "computer cards"). A computer must serve its _owner_, be auditable down to the bone to earn owner's trust, be upgradeable to encourage reuse, and the whole ecosystem must be designed with long-term mindset to reduce waste. It's a long road but we need secure devices that we can trust. Or are you going to run sovereign decentralized finance on backdoored laptops and phones? But that's another story\*.
+I personally use DCR to support one very promising project and it feels so right with every transfer\*\*, compared to just hoarding my DCR. The project is [EOMA68](https://www.crowdsupply.com/eoma68/micro-desktop) and it is building open, upgradeable and cheap computers based on pluggable "computer cards". A computer must serve its _owner_, be auditable down to the bone to earn owner's trust, be upgradeable to encourage reuse, and the whole ecosystem must be designed with long-term mindset to reduce waste. It's a long road but we need secure devices that we can trust. Or are you going to run sovereign decentralized finance on backdoored laptops and phones? But that's another story\*.
 
 Internet allows people to share and coordinate information. Sound and open money allows people to share and coordinate energy.
 
-I want to see Decred as a value transfer network for builders. We can start small and just tip each other for good contributions\*\*. We can develop a habit to actively reach out to the author and offer a DCR tip when we enjoyed content or a service. (This increase in wallet usage will have a nice side effect of finding more UX bugs.) Then it could become a [Hacker](http://www.catb.org/jargon/html/H/hacker.html)'s Coin\*, and then expand to connect other builders of this world.
+I want to see Decred as a value transfer network for builders.
+
+We can start small and just tip each other for good contributions\*\*. We can develop a habit to actively reach out to the author and offer a DCR tip when we enjoyed content or a service. This increase in wallet usage will have a nice side effect of finding more UX bugs. Over time we should adopt/develop software and services that make crypto tipping very simple and start competing in the wider tipping market that is rapidly growing but most of the options are limited (Reddit Gold, Twitch Bits, Patreon, etc)\*.
+
+Then it could become a [Hacker](http://www.catb.org/jargon/html/H/hacker.html)'s Coin\*, and then expand to connect other builders of this world.
 
 It must flow.
 
@@ -145,7 +149,7 @@ Based on the above, I think we should
 
 - Learn: how did Murad gain so many followers?
 - Set up guidelines how to grow communities (in progress).
-- Set up funding. Many accounts are [outdated](https://github.com/decredcommunity/textassets) and haven't posted for a long time. A successful account requires a ton of consistent work to maintain a healthy pulse of updates and to talk to its community. Without solid funding and coordination our accounts will be dusty and rely on volunteers that come and go.
+- Set up funding. Many accounts are [outdated](https://github.com/decredcommunity/textassets) and haven't posted for a long time. A successful account requires a ton of consistent work to maintain a healthy pulse of updates and to talk to its community. Without solid coordination and funding our accounts will be dusty and rely on volunteers that come and go.
 - Maybe hire an [SMM](https://en.wikipedia.org/wiki/Social_media_marketing) professional?
 - Put more effort in YouTube and Facebook - both have only about 3K followers.
 - Set up less popular but more promising platforms like Mastodon or those YouTube replacements. They might have higher "conversion" ratio, and if they succeed and obsolete centralized platforms, we'll be in a good position for being among the pioneers.
@@ -184,7 +188,13 @@ Those rare minds that already know what is wrong with money and search for alter
 
 As of writing, DuckDuckGo search for "sound money" has [Beam](https://medium.com/beam-mw/why-beam-is-sound-money-b2d956f18efc) as 8th result.
 
-## At the same time, don't panic
+## Allocate funds for experiments
+
+A few recent proposals have showed the barriers to funding even tiny ideas and inefficiency in utilizing the attention of stakeholders.
+
+I suggest to allocate a small 3-6 month budget that could try small things flexibly and quickly. With good oversight and reporting, it can shut down bad ideas quickly and stay prudent.
+
+## At all times, don't panic
 
 We should keep our heads cool at any price. I'm not saying Ditto or Marketing 2019 is doing useless work or is overpriced. I just don't know. All I see is we need _more_ to move this old trend where Decred is some obscure tech brilliance.
 
@@ -201,10 +211,14 @@ To stay cool, focused and productive (you want the change or what?) I recommend:
   - There are cases when sensitive information must not be disclosed until a certain point, but after that point open discussions must flow.
 - Stay sober, do not overfocus on _some_ negative trends (price, social media metrics) and become blind to positive trends (more conversations about Decred, more investors, more devs, more research, more events all over the world, network is healthy, dev never stops, etc - I hope you read [DJ](https://xaur.github.io/decred-news/)!)
 
-Phew! That was quick typing. Looks like these ideas got tired of sitting in my head for so long.
+## More hands
+
+There are many directions to explore and a million of things to do. We need more hands, efficient organization, and ideally funding to make it happen. If you're willing to push any of that forward please get in touch.
+
+## Outro
 
 Thanks for your precious attention!
 
-If you see value in my perspective, or would like to signal that I should finish my drafts (\*) sooner, or if you would like to experience the joy of permissionless value transfer (\*\*), I'll happily accept tips here:
+If you see value in my perspective, or would like to signal that I should finish my drafts (\*) sooner, or if you would like to experience the joy of permissionless value transfer today (\*\*), I'll happily accept tips here:
 
 {D...}
