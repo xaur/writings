@@ -107,6 +107,10 @@ To prepare, train quality representatives/[ambassadors](https://github.com/decre
 
 Reach like 100 of such communities and see if it makes a difference.
 
+## Integrate strategically
+
+Integrate DCR or Decred's blockchain with emerging peer-to-peer tech like DEX protocols, P2P marketplaces, P2P sharing economy, etc. Many such projects have small user bases so it may not boost Decred's adoption too much. What it can do is expose Decred as a currency _and_ as a project to work for. Because these communities revolve around sophisticated decentralized tech, they must have higher ratio of smart people for whom it is much easier to appreciate Decred.
+
 ## Grow our social media
 
 Social media stats are posted regularly in DJ and I [posted](https://proposals.decred.org/proposal/52ea110ea061c72d3b31ed2f5635720b212ce5e3eaddf868d60f53a3d18b8c04/comments/32) an overview on Politeia. Let's look at latest bi-monthly numbers to save space:
@@ -167,6 +171,18 @@ A few vectors I would try:
 
 - Buy these new "manual ads" from YouTubers where they read it themselves with their voice, often in an entertaining way. This is quite different from random old school annoying banners or just as annoying video ads injected by YouTube. If they already advertise the eToro crypto trading platform, why couldn't Decred be there? 
 - Suggest DCR to content creators as an extra channel to receive donations, as a way to connect with their followers more directly, and as a backup in case of any misbehavior from the gatekeepers. They will need our consulting to breach the conceptual and setup barrier.
+
+## Connect with relevant concepts
+
+Look up [Austrian School](https://en.wikipedia.org/wiki/Austrian_School) or direct voting in Switzerland. Many ideas of crypto are not new. What's new is that crypto gives us tools to make them a reality or apply in a global scale. Why are we not in touch with these people? Hopefully [@ammarooni's work](https://proposals.decred.org/proposals/65bde4146b845e7e839d6916d4d8f642bc39c250df5379c2f1e26c4ab778ec1a) will help.
+
+Each association brings both new supporters and new enemies so we must choose carefully, especially during the early days of the project.
+
+## Sharpen the SEO
+
+Those rare minds that already know what is wrong with money and search for alternatives, do they find Decred? Do searches with relevant keywords like "sound money", "scarcity", "store of value", "Austrian School", "direct voting" or "direct democracy" lead to Decred's website and social media accounts?
+
+As of writing, DuckDuckGo search for "sound money" has [Beam](https://medium.com/beam-mw/why-beam-is-sound-money-b2d956f18efc) as 8th result.
 
 ## At the same time, don't panic
 
