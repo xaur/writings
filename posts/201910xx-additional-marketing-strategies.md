@@ -190,12 +190,6 @@ Those rare minds that already know what is wrong with money and search for alter
 
 As of writing, DuckDuckGo search for "sound money" has [Beam](https://medium.com/beam-mw/why-beam-is-sound-money-b2d956f18efc) as 8th result.
 
-## Allocate funds for experiments
-
-A few recent proposals have showed the barriers to funding even tiny ideas and inefficiency in utilizing the attention of stakeholders.
-
-I suggest to allocate a small 3-6 month budget that could try small things flexibly and quickly. With good oversight and reporting, it can shut down bad ideas quickly and stay prudent.
-
 ## At all times, don't panic
 
 We should keep our heads cool at any price. I'm not saying Ditto or Marketing 2019 is doing useless work or is overpriced. I just don't know. All I see is we need _more_ to move this old trend where Decred is some obscure tech brilliance.
