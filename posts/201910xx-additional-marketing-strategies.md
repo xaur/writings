@@ -89,9 +89,11 @@ Internet allows people to share and coordinate information. Sound and open money
 
 I want to see Decred as a value transfer network for builders.
 
-We can start small and just tip each other for good contributions\*\*. We can develop a habit to actively reach out to the author and offer a DCR tip when we enjoyed content or a service. This increase in wallet usage will have a nice side effect of finding more UX bugs. Over time we should adopt/develop software and services that make crypto tipping very simple and start competing in the wider tipping market that is rapidly growing but most of the options are limited (Reddit Gold, Twitch Bits, Patreon, etc)\*.
+We can start small and just tip each other for good contributions\*\*. We can develop a habit to actively reach out to the author and offer a DCR tip when we enjoyed content or a service. We can start right now without waiting for extra features - they will follow the demand. Speaking of features, we can add [tipping to Politeia](https://github.com/decred/politeia/issues/899) to reward good analysis. Tipping activity will increase wallet usage and have a nice side effect of finding more UX bugs. We'll also need best practices and features to protect privacy because tips link coins to your identities.
 
 Then it could become a [Hacker](http://www.catb.org/jargon/html/H/hacker.html)'s Coin\*, and then expand to connect other builders of this world.
+
+Over time we should adopt/develop software and services that make crypto tipping very simple and start competing in the wider tipping market that is rapidly growing but most of the options are centralized and limited (Reddit Gold, Twitch Bits, Patreon, etc).
 
 It must flow.
 
