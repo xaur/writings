@@ -28,16 +28,18 @@ I'd like to see more data on how efficient was allocating resources on tradition
 
 Something I hoped Decred would achieve with Ditto's help is a significant amount of coverage from the ["big boys"](https://bitcoinexchangeguide.com/cryptocurrency-news-websites/) like CoinDesk and CoinTelegraph.
 
-I wouldn't compare with old and well established projects like Bitcoin or Ethereum, but let's compare with smaller projects that seem to have paid PR as well - Stellar and Zcash. For data points let's take the count of tagged articles in 2019:
+I wouldn't compare with old and well established projects like Bitcoin or Ethereum, but let's compare with smaller projects that seem to have paid PR as well - Stellar, Dash and Zcash. For data points let's take the count of tagged articles in 2019:
 
-site|Stellar|Zcash|Decred
-:--|--:|--:|--:
-CoinDesk|[10](https://www.coindesk.com/tag/stellar)|[19](https://www.coindesk.com/tag/zcash)|[3](https://www.coindesk.com/tag/decred)
-CoinTelegraph|[10](https://cointelegraph.com/tags/stellar)|[34](https://cointelegraph.com/tags/zcash)|[2](https://cointelegraph.com/tags/decred)
-BTCManager|[3](https://btcmanager.com/tag/stellar/)|[13](https://btcmanager.com/tag/zcash/)|[1](https://btcmanager.com/tag/decred/)
-InvestInBlockchain|[26](https://www.investinblockchain.com/tag/stellar/)|[2](https://www.investinblockchain.com/tag/zcash/)|[6](https://www.investinblockchain.com/tag/decred/)
+site|Stellar|Dash|Zcash|Decred
+:--|--:|--:|--:|--:
+CoinDesk|[10](https://www.coindesk.com/tag/stellar)|[10](https://www.coindesk.com/tag/dash)|[19](https://www.coindesk.com/tag/zcash)|[3](https://www.coindesk.com/tag/decred)
+CoinTelegraph*|[8](https://cointelegraph.com/tags/stellar)|[5](https://cointelegraph.com/tags/dash)|[18](https://cointelegraph.com/tags/zcash)|[2](https://cointelegraph.com/tags/decred)
+BTCManager|[3](https://btcmanager.com/tag/stellar/)|[6](https://btcmanager.com/tag/dash/)|[13](https://btcmanager.com/tag/zcash/)|[1](https://btcmanager.com/tag/decred/)
+InvestInBlockchain|[26](https://www.investinblockchain.com/tag/stellar/)|[3](https://www.investinblockchain.com/tag/dash/)|[2](https://www.investinblockchain.com/tag/zcash/)|[6](https://www.investinblockchain.com/tag/decred/)
 
-The comparison is not too fair: XLM and ZEC have higher market cap, have better "connections", have more money to throw at those sites, and they have started doing it much earlier.
+_*For CoinTelegraph I did my best to exclude pure price coverage and too short mentions. Also, CT's Stellar counts are truncated to Sep-Nov because it fails to load more into the past._
+
+The comparison is not too fair: other projects have higher market cap, have better "connections", have more money to throw at those sites, and they have started doing it much earlier. What it does is provide some context to get the subjective impression that Decred is not covered "enough".
 
 There must be reasons why Decred is not mentioned in major media as often as it should, and I'd like to know those reasons. More importantly, I'd like to know if they worth our time.
 
