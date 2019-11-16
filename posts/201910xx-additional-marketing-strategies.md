@@ -105,7 +105,7 @@ A strategy I think we should try is direct outreach to very relevant groups\*. N
 
 This strategy is radically different from waiting for mass media readers to grow up and become interested in such boring things like sound and fair money, sovereignty or governance. It is directly coming to people who are already there (and likely don't read mass media).
 
-There are many communities that are already aligned with Decred community's values yet we don't actively talk to them. Just to name a few topics, I mean groups who deeply care about: sovereignty, financial sovereignty, unorthodox (non-brainwashed) economic schools, sound monetary policy, building and maintaining critical open source/free software (and hardware!), privacy, building better protocols and services without "surveillance included", small government, stopping consumer/short-term/waste culture, off-grid living, etc.
+There are many communities that are already aligned with Decred community's values yet we are not in touch with them. Just to name a few topics, I mean groups who deeply care about: sovereignty, financial sovereignty, unorthodox (non-brainwashed) economic schools, sound monetary policy, building and maintaining critical open source/free software (and hardware!), privacy, building better protocols and services without "surveillance included", small government, stopping consumer/short-term/waste culture, [P2P folks](https://p2pfoundation.net/), changing the [way we work](https://howwegettonext.com/reversing-the-lies-of-the-sharing-economy-a85501d14be8) via better ownership and governance models, off-grid living, etc.
 
 My theory is that these people are much closer to understand and appreciate Decred, and are more likely to become users/supporters/stakeholders.
 
@@ -115,7 +115,7 @@ Reach like 100 of such communities and see if it makes a difference.
 
 ## Integrate strategically
 
-Integrate DCR or Decred's blockchain with emerging peer-to-peer tech like DEX protocols, P2P marketplaces, P2P sharing economy, etc. Many such projects have small user bases so it may not boost Decred's adoption too much. What it can do is expose Decred as a currency _and_ as a project to work for. Because these communities revolve around sophisticated decentralized tech, they must have higher ratio of smart people for whom it is much easier to appreciate Decred.
+Integrate DCR or Decred's blockchain with emerging peer-to-peer tech like DEX protocols, P2P marketplaces and other P2P systems. Many such projects have small user bases so it may not boost Decred's adoption too much. What it can do is expose Decred as a currency _and_ as a project to work for. Because these communities revolve around sophisticated decentralized tech, they must have higher ratio of smart people for whom it is much easier to appreciate Decred.
 
 ## Grow our social media
 
