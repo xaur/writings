@@ -45,7 +45,7 @@ _* For CoinTelegraph I did my best to exclude pure price coverage and insignific
 
 The comparison is not too fair: other projects have higher market cap, have better "connections", have more money to throw at those sites, and they have started doing it much earlier. What it does is provide some context to get the subjective impression that Decred is not covered "enough".
 
-There must be reasons why Decred is not mentioned in major outlets as often as it should, and I'd like to know those reasons. More importantly, I'd like to know if these outlets are worth our time.
+There must be reasons why Decred is not mentioned in major outlets as often as it should, and I'd like to know those reasons. Chances are the game is just rigged and they cannot be known without insider info. More importantly, I'd like to know if these outlets are worth our time. I like CoinDesk much less after its recent "update" that makes pages unreadable without javascript and actively resists snapshots by web notaries.
 
 More media placements is always good, especially in big or relevant places. But crypto sites generate crypto articles all the time. Does Decred stand out from hundreds of other coins covered every day? Do we have any view count stats? Did we onboard any significant number of users or investors or devs fia Forbes, Yahoo Finance or CoinDesk?
 
