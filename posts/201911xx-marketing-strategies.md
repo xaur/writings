@@ -233,6 +233,6 @@ Thanks for your attention!
 
 If you see value in my perspective, want to signal that I should finish my drafts (\*) sooner, or if you would like to experience the joy of permissionless value transfer today (\*\*), I'll happily accept tips here:
 
-{D...}
+`DseVdJMjE7TgyAHPSDX2MqrsH549zn8qEDc`
 
 _Thanks to Dustorf, emiliomann, jz, michae2xl, praxis and richardred for their feedback._
