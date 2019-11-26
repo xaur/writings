@@ -20,7 +20,7 @@ Ditto reports [twice a month](https://github.com/decredcommunity/proposals/tree/
 
 Marketing and Events proposals _kind of_ report via monthly summaries in Decred Journal (DJ) but it is far from what I'd like to see. Aside from clearly visible deliverables like Decred Assembly or Decred in Depth releases, summaries for Marketing have incomplete and unclear coverage of how items outlined in the [proposal](https://proposals.decred.org/proposals/c84a76685e4437a15760033725044a15ad832f68f9d123eb837337060a09f86e) are progressing.
 
-As for Events, the high level reporting in DJ is not robust because the summaries are compiled by DJ authors and not by proposal owners, and there is no established reporting practice yet. Some people submit full [event reports](https://github.com/decredcommunity/events) (thank you, keep it up!), some post messages in the #events chat room and some don't post explicit reports at all. The majority of detailed reports comes from smaller low budget events, while the most expensive events like Consensus are the least reporting ones. I would exect a bit more active updates from them.
+As for Events, the high level reporting in DJ is not robust because the summaries are compiled by DJ authors and not by proposal owners, and there is no established reporting practice yet. Some people submit full [event reports](https://github.com/decredcommunity/events) (thank you, keep it up!), some post messages in the #events chat room and some don't post explicit reports at all. The majority of detailed reports comes from smaller low budget events, while the most expensive events like Consensus are the least reporting ones. I would expect a bit more active updates from them.
 
 "Why do we need these boring reports, anyway?" you might ask. Because events cost time and money and we need to know if we are spending them well. Compare: monitor a bunch of Twitter accounts, Reddit, search YouTube and filter through chats every day, versus reading a single document [like this](https://github.com/decredcommunity/events/blob/master/reports/20190925-la-conexion-buenos-aires-argentina.md). On top of sharing and understanding which tactics work best, some reports I've processed had interesting insights about the crypto situation around the world.
 
@@ -228,4 +228,4 @@ If you see value in my perspective, or would like to signal that I should finish
 
 {D...}
 
-_Thanks to @Dustorf and @praxis for reviews and feedback_
+_Thanks to Dustorf, praxis and richardred for reviews and feedback_
