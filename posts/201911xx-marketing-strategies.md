@@ -126,7 +126,7 @@ Many such projects have small user bases so it may not boost Decred's adoption t
 
 ## Grow our social media
 
-Social media stats are posted regularly in DJ and I [posted](https://proposals.decred.org/proposal/52ea110ea061c72d3b31ed2f5635720b212ce5e3eaddf868d60f53a3d18b8c04/comments/32) an overview on Politeia. Let's look at latest bi-monthly numbers:
+Social media stats is often the first thing we look at to estimate the size of the community and the success of the project. Let's look at Decred's latest bi-monthly follower counts:
 
 platform|Dec 18|Feb 19|Apr 19|Jun 19|Aug 19|Oct 19
 ---|--:|--:|--:|--:|--:|--:
@@ -138,15 +138,13 @@ platform|Dec 18|Feb 19|Apr 19|Jun 19|Aug 19|Oct 19
 [Slack](https://slack.decred.org)|6,353|6,529|6,639|6,721|6,809|6,851
 Discord|||2,124|2,257|2,377|2,487
 
-As an example of a successful individual account, between Jan and Oct 2019 Murad's [Twitter](https://twitter.com/MustStopMurad) went from [31K](https://archive.today/0V21f) to [66K](https://archive.today/2n26G) followers. Among projects, [BAT](https://twitter.com/attentiontoken) gained 107K followers since Mar 2017 (it's younger than Decred).
+Compare this to Murad's [Twitter](https://twitter.com/MustStopMurad) account that went from [31K](https://archive.today/0V21f) to [66K](https://archive.today/2n26G) followers between Jan and Oct 2019. Among projects, [BAT](https://twitter.com/attentiontoken) gained 107K followers since Mar 2017 (it's younger than Decred).
 
-Social media has become extremely important. Part of the reason is that traditional media has failed at its job of informing people of important things without garbage biases and pay-to-play games. There are news groups and business who successfully operate and grow exclusively through social media.
+Every month there's an inflow and outflow of followers. If you're idle and do nothing with your account you'll slowly lose them. Decred staying flat is not too bad but is not a good signal either.
 
-I don't really like existing social media platforms because they are all centralized and all march towards censorship of "wrong" ideas. I hope the decentralization movement will build better ones. But to spread awareness today we need presence on today's platforms, just as we need fiat on/off ramps for crypto until most of the world starts accepting it directly.
+A nice recent activity is that Ditto began to actively mobilize our community to make an impact on social media. But shouldn't it reflect on follower counts? Or perhaps there are other metrics that are not publically visible? It would be good to know.
 
-Every month there's an inflow and outflow of followers. If you're idle and do nothing with your account you'll slowly lose them. Decred staying flat is not too bad but it needs to grow. I don't know what we're doing wrong but we need to figure it out.
-
-A good recent action is that Ditto began to actively mobilize our community to make an impact on social media. But it should reflect on follower counts, right? Or perhaps there are other metrics that are not publically visible? It would be good to know.
+There is one big gotcha with these numbers: they [can be bought](https://buyfollowersguide.com/twitter-followers/) pretty cheaply. This means a few things for us. First, any gains of fake following can be wiped out as we have seen on Twitter. Second, we cannot know if the gains are fake or real. Clearly we should not blindly chase these numbers or use them to evaluate our work. They should be carefully used as one signal among many others.
 
 We often focus on Twitter but we really need to think beyond this one platform. Quoting @pablito's DCR Comic [proposal](https://proposals.decred.org/proposals/2ef74fa5f0b558442cb85b1235c8c551a51ff5d8b8de44dead48b8b59c8fc1de):
 
@@ -154,13 +152,17 @@ We often focus on Twitter but we really need to think beyond this one platform. 
 >
 > In Brazil, LATAM's most populous country and one of Decred's main development hubs, 95% of Internet users use YouTube, 89% use WhatsApp and 71% use Instagram, but only 43% use Twitter; according to the 2019 Global Web Index published by Hootsuite.
 
+Social media has become extremely important. Part of the reason is that traditional media has failed at its job of informing people of important things without garbage biases and pay-to-play games. There are news groups and business who successfully operate and grow exclusively through social media.
+
+I don't really like existing social media platforms because they are all centralized and all march towards censorship of "wrong" ideas. I hope the decentralization movement will build better ones. But to spread awareness today we need presence on today's platforms, just as we need fiat on/off ramps for crypto until most of the world starts accepting it directly.
+
 Based on the above, I think we should
 
 - Learn: how did Murad double his Twitter followers so quick?
-- Put more effort in YouTube and Facebook - both have only about 3K followers.
+- Put more effort in YouTube and Facebook - both have only about 3K followers and low view counts.
 - Maybe hire an [SMM](https://en.wikipedia.org/wiki/Social_media_marketing) professional?
 - Develop guidelines how to grow communities (big first step is done with the release of community organizer [guide](https://github.com/decredcommunity/guidelines/blob/master/community-organizer-playbook.md)).
-- Staff and fund more accounts. Many accounts are [outdated](https://github.com/decredcommunity/textassets) and are not active enough. A successful account requires a ton of consistent work to maintain a healthy pulse of updates and to talk to its followers. Without solid coordination and funding our accounts will be dusty and rely on volunteers that come and go.
+- Staff and fund more accounts. Many accounts are [outdated](https://github.com/decredcommunity/textassets) and are not active enough. A successful account requires a ton of consistent work to maintain a healthy pulse of updates and to talk to its community. Without solid coordination and funding our accounts will be dusty and rely on volunteers that come and go.
 - Try less popular but more promising platforms like Mastodon or those P2P YouTube replacements. They might have higher "conversion" ratio, and if they succeed and obsolete centralized platforms, we'll be in a good position among the pioneers.
 - Find out inflow and outflow numbers for all platforms.
 - Set up collection and visualization of stats and make the data available to our researchers. This was one of the proposed [research directions](https://proposals.decred.org/proposals/5d9cfb07aefb338ba1b74f97de16ee651beabc851c7f2b5f790bd88aea23b3cb/comments/13) but it didn't collect enough upvotes. I think it's still relevant.
@@ -228,4 +230,4 @@ If you see value in my perspective, or would like to signal that I should finish
 
 {D...}
 
-_Thanks to Dustorf, praxis and richardred for reviews and feedback_
+_Thanks to Dustorf, jz, praxis and richardred for reviews and feedback_
