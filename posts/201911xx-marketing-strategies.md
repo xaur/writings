@@ -126,7 +126,7 @@ Many such projects have small user bases so it may not boost Decred's adoption t
 
 ## Grow our social media
 
-Social media stats is often the first thing we look at to estimate the size of the community and the success of the project. Let's look at Decred's latest bi-monthly follower counts:
+Social media stats is often the first thing we look at to estimate the size of the community and the success of the project. Let's look at Decred's latest bi-monthly follower counts for English platforms:
 
 platform|Dec 18|Feb 19|Apr 19|Jun 19|Aug 19|Oct 19
 ---|--:|--:|--:|--:|--:|--:
@@ -151,6 +151,8 @@ We often focus on Twitter but we really need to think beyond this one platform. 
 > According to [latest stats](https://www.pewresearch.org/fact-tank/2019/04/10/share-of-u-s-adults-using-social-media-including-facebook-is-mostly-unchanged-since-2018/) by the Pew Research Center, Facebook (69%) and YouTube (73%) are the most widely used online platforms among U.S. adults. Instagram is used by 37% but has showed the most growth in the last 3 years. Twitter is lagging behind with just 22% and has declined since 2018. Among 18-to-24-year-old Instagram's popularity has reached 75% and YouTube is leading the way with 90%. Twitter usage among this age group is at 44%.
 >
 > In Brazil, LATAM's most populous country and one of Decred's main development hubs, 95% of Internet users use YouTube, 89% use WhatsApp and 71% use Instagram, but only 43% use Twitter; according to the 2019 Global Web Index published by Hootsuite.
+
+Good news from Brazilian Decred community is their Facebook has ~6K followers and ~2.5K active followers in a 7-day window. It also has an elaborate joining process that is harder to fake by bots.
 
 Social media has become extremely important. Part of the reason is that traditional media has failed at its job of informing people of important things without garbage biases and pay-to-play games. There are news groups and business who successfully operate and grow exclusively through social media.
 
@@ -230,4 +232,4 @@ If you see value in my perspective, or would like to signal that I should finish
 
 {D...}
 
-_Thanks to Dustorf, jz, praxis and richardred for reviews and feedback_
+_Thanks to Dustorf, emiliomann, jz, praxis and richardred for reviews and feedback_
