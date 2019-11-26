@@ -14,7 +14,7 @@ The efforts and expenses brought us some good results but some things that I exp
 
 ## Evaluate existing work
 
-First of all we must know how efficient are our existing marketing efforts. To do that we need to evaluate what was _done_ against certain _criteria_. The former requires _reporting_ and the latter requires defining _success metrics_.
+First of all we must know how efficient are our existing marketing efforts. For that we need to have good vision of what was done, compare it to deliverables outlined in the proposals, and try to measure the impact. It all starts with reporting.
 
 Ditto reports [twice a month](https://github.com/decredcommunity/proposals/tree/master/pr-ditto/updates), which is amazing and sets an example for all proposals.
 
@@ -24,13 +24,13 @@ As for Events, the high level reporting in DJ is not robust because the summarie
 
 "Why do we need these boring reports, anyway?" you might ask. Because events cost time and money and we need to know if we are spending them well. Compare: monitor a bunch of Twitter accounts, Reddit, search YouTube and filter through chats every day, versus reading a single document [like this](https://github.com/decredcommunity/events/blob/master/reports/20190925-la-conexion-buenos-aires-argentina.md). On top of sharing and understanding which tactics work best, some reports I've processed had interesting insights about the crypto situation around the world.
 
-Note that I'm only judging reporting here, not achievements. I see marketing achievements all the time. The problem is I don't know which results were funded by which proposals and I don't have a good overview of results. How can we evaluate efficiency without a convenient, thorough and up-to-date summary of the results we evaluate?
+Note that I'm only judging reporting here and not achievements, which I see all the time. The problem is I don't know which results were funded by which proposals and I don't have a good overview of results. How can we evaluate efficiency without a convenient, thorough and up-to-date summary of the results we evaluate?
 
-When it comes to success metrics, there were fair calls in [Ditto 1](https://proposals.decred.org/proposal/27f87171d98b7923a1bd2bee6affed929fa2d2a6e178b5c80a9971a92a5c7f50/comments/35), [Ditto 2](https://proposals.decred.org/proposal/52ea110ea061c72d3b31ed2f5635720b212ce5e3eaddf868d60f53a3d18b8c04/comments/1) and [Marketing](https://proposals.decred.org/proposal/c84a76685e4437a15760033725044a15ad832f68f9d123eb837337060a09f86e/comments/23) to establish those even before we approved the proposals. The problem I saw back then is that numbers can be gamed or may not represent important things. I viewed those proposals as an experiment that we can only begin to evalute after we do it for some time and collect some results. Now is a good time.
+When it comes to measuring impact, there were fair calls to establish success metrics in [Ditto 1](https://proposals.decred.org/proposal/27f87171d98b7923a1bd2bee6affed929fa2d2a6e178b5c80a9971a92a5c7f50/comments/35), [Ditto 2](https://proposals.decred.org/proposal/52ea110ea061c72d3b31ed2f5635720b212ce5e3eaddf868d60f53a3d18b8c04/comments/1) and [Marketing](https://proposals.decred.org/proposal/c84a76685e4437a15760033725044a15ad832f68f9d123eb837337060a09f86e/comments/23) even before we approved the proposals. The problem I saw back then is that numbers that are often proposed as metrics can be gamed or may not show real things. I viewed those proposals as an experiment that we can only begin to evalute after we do it for some time and collect some results. Now is a good time.
 
-I'd like to see more data on how efficient was allocating resources on traditional media.
+First big item I'd like to see more data on is how efficient was allocating resources on news outlets.
 
-Something I hoped Decred would achieve with more marketing work is a fair amount of coverage from the ["big boys"](https://bitcoinexchangeguide.com/cryptocurrency-news-websites/) like CoinDesk and CoinTelegraph.
+Something I hoped Decred would achieve with investing in marketing is a fair amount of coverage from the ["big ones"](https://bitcoinexchangeguide.com/cryptocurrency-news-websites/) like CoinDesk and CoinTelegraph.
 
 I wouldn't compare with old and well established projects like Bitcoin or Ethereum, but let's compare with smaller projects that seem to have paid PR as well: Stellar, Dash and Zcash. For data points let's take the count of tagged articles in 2019:
 
@@ -45,7 +45,7 @@ _* For CoinTelegraph I did my best to exclude pure price coverage and insignific
 
 The comparison is not too fair: other projects have higher market cap, have better "connections", have more money to throw at those sites, and they have started doing it much earlier. What it does is provide some context to get the subjective impression that Decred is not covered "enough".
 
-There must be reasons why Decred is not mentioned in major outlets as often as it should, and I'd like to know those reasons. Chances are the game is just rigged and they cannot be known without insider info. More importantly, I'd like to know if these outlets are worth our time. I like CoinDesk much less after its recent "update" that makes pages unreadable without javascript and actively resists snapshots by web notaries.
+There must be reasons why Decred is not mentioned in major outlets as often as it should, and I'd like to know them. Chances are the game is just rigged and they cannot be known without insider info. More importantly, I'd like to know if these outlets are worth our time. I like CoinDesk much less after its recent "update" that makes pages unreadable without javascript and actively resists snapshots by archiving services.
 
 More media placements is always good, especially in big or relevant places. But crypto sites generate crypto articles all the time. Does Decred stand out from hundreds of other coins covered every day? Do we have any view count stats? Did we onboard any significant number of users or investors or devs fia Forbes, Yahoo Finance or CoinDesk?
 
@@ -146,7 +146,7 @@ I don't really like existing social media platforms because they are all central
 
 Every month there's an inflow and outflow of followers. If you're idle and do nothing with your account you'll slowly lose them. Decred staying flat is not too bad but it needs to grow. I don't know what we're doing wrong but we need to figure it out.
 
-A good recent action is that Ditto began to actively mobilize our community to make an impact on social media. But it should reflect in follower counts, right? Or perhaps there are other metrics that are not publically visible? It would be good to know.
+A good recent action is that Ditto began to actively mobilize our community to make an impact on social media. But it should reflect on follower counts, right? Or perhaps there are other metrics that are not publically visible? It would be good to know.
 
 We often focus on Twitter but we really need to think beyond this one platform. Quoting @pablito's DCR Comic [proposal](https://proposals.decred.org/proposals/2ef74fa5f0b558442cb85b1235c8c551a51ff5d8b8de44dead48b8b59c8fc1de):
 
