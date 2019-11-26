@@ -144,7 +144,7 @@ Every month there's an inflow and outflow of followers. If you're idle and do no
 
 A nice recent activity is that Ditto began to actively mobilize our community to make an impact on social media. But shouldn't it reflect on follower counts? Or perhaps there are other metrics that are not publically visible? It would be good to know.
 
-There is one big gotcha with these numbers: they [can be bought](https://buyfollowersguide.com/twitter-followers/) pretty cheaply. This means a few things for us. First, any gains of fake following can be wiped out as we have seen on Twitter. Second, we cannot know if the gains are fake or real. Clearly we should not blindly chase these numbers or use them to evaluate our work. They should be carefully used as one signal among many others.
+There is one big gotcha with these numbers: they can be pumped in many questionable ways, down to just [buying](https://buyfollowersguide.com/twitter-followers/) them from special services. This means a few things for us. First, any gains of fake following can be wiped out as we have seen on Twitter. Second, we cannot know if the gains are fake or real, they are not representative of the real size or engagement of the community. Most importantly, we should not blindly chase these numbers or use them to evaluate our work. They should be carefully used as one signal among many others.
 
 We often focus on Twitter but we really need to think beyond this one platform. Quoting @pablito's DCR Comic [proposal](https://proposals.decred.org/proposals/2ef74fa5f0b558442cb85b1235c8c551a51ff5d8b8de44dead48b8b59c8fc1de):
 
@@ -232,4 +232,4 @@ If you see value in my perspective, or would like to signal that I should finish
 
 {D...}
 
-_Thanks to Dustorf, emiliomann, jz, praxis and richardred for reviews and feedback_
+_Thanks to Dustorf, emiliomann, jz, michae2xl, praxis and richardred for their feedback_
