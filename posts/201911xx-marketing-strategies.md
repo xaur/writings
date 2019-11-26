@@ -4,7 +4,7 @@ published_utc: {FIXME}
 
 # Marketing Strategies
 
-The price is low, following and views not growing, and people are still not going crazy about Decred all over the place.
+The price is low, following and view counts not growing, and people are still not going crazy about Decred all over the place.
 
 _(^catchy opener there)_
 
@@ -65,9 +65,9 @@ Use "money" much more often. When explaining Decred, open with "money" or "sound
 
 Talk about what's going on with traditional money\*. Why do prices keep going up regardless of all our technological progress? Talk about the financial crisis of 2008. Talk about the new QE round from the ECB (is it 4th?) and not-QE4-stay-calm from the Fed. Tell that most people work hard to get that cash while some entities get it for free and that it will never stop without a good stimulus. Tell people to look at paper bills and plastic cards they use _every day_, and for the first time _think_ where they come from, who creates it and for how long this can go on until the next major "oops". Remind when and why Bitcoin launched and what did it have in its first block.
 
-When the person begins to appreciate the ideas behind cryptocurrencies, a fair next question is why not just use a more established one? And then our job is to show the difference. The tagline helps here - we can tell how Decred is more secure, adaptable and sustainable in contrast with other systems.
+When the person begins to appreciate the ideas behind decentralized money, a fair next question is why not just use a more established currency? And then our job is to show the difference. The tagline helps here - we can tell how Decred is more secure, adaptable and sustainable in contrast with other systems.
 
-My personal favorite killer feature is governance but I don't like the word and it is a challenge to show how awesome it is. In Decred you _directly_ approve what happens to _your_ money because you are the one risking your wealth using it\*. I can't overstate how simple but mind blowing it is. I know there is voter apathy all over the world, but in Decred your vote counts for real. Pure PoW systems made huge leap from fiat but as a holder you still have to rely on third parties making good decisions for you. Ironically, crypto was made to remove this trust. Decred, arguably for the first time, gives us a chance to have money that serves _us_\* without security compromises of pure PoS systems.
+My personal favorite killer feature is governance but I don't like the word and it is a challenge to show how awesome it is. In Decred you can _directly_ approve what happens to _your_ money because you are the one risking your wealth using it\*. I can't overstate how simple but mind-blowing it is. I know there is voter apathy all over the world, but in Decred your vote counts for real. Pure PoW systems made huge leap from fiat but as a holder you still have to rely on third parties making good decisions for you. Ironically, crypto was made to remove this trust. Decred, arguably for the first time, gives us a chance to have money that serves _us_\* without security compromises of pure PoS systems.
 
 Because I believe Decred's nearest [major goal](https://www.reddit.com/r/decred/comments/dgck7e/what_is_decreds_end_goal/) is delivering us sound money, I would not _pitch_ it as "DAO" or anything too distant from sound money. When you set the goal to land on the Moon, you get all kinds of amazing inventions and breakthroughs along the way, but your goal is the Moon.
 
@@ -75,6 +75,7 @@ Because I believe Decred's nearest [major goal](https://www.reddit.com/r/decred/
 
 Be honest about Decred's status. Always be ready to fairly present what we _do_ and _do not_ have yet. Decred is _not_ a good SoV today:
 
+- It is very volatile, like all crypto.
 - It has low liquidity and moderate exchange adoption. We do get new integrations every month and liquidity is getting better, but still a lot remains to be done.
 - Self-custody UX is a huge pain point. Like in all crypto.
 - [Privacy](https://github.com/decredcommunity/issues/issues/25) is not solved yet. I would argue that voting [address reuse](https://github.com/decred/dcrstakepool/issues/311) made Decred _less private_ than Bitcoin. Glad to see it getting attention now because it is required for Decred's CoinShuffle++ rollout. This has potential for much greater and more accessible privacy than in Bitcoin. 
@@ -207,7 +208,7 @@ As an example, at one point DuckDuckGo search for "sound money" had [Beam](https
 
 This final section is for my Decred fellows who are getting nervous or desperate.
 
-We should keep our heads cool regardless of the price or media coverage. I'm not saying our marketing is working bad. All I see is we need _more_ of pretty much everything to push this old perception that Decred is some obscure geek toy.
+We should keep our heads cool regardless of the price or media coverage. I'm not saying our marketing is working poorly. All I see is we need _more_ of pretty much everything to push this old perception that Decred is some obscure geek toy.
 
 To stay cool, focused and productive (you want the change, right?) I recommend:
 
