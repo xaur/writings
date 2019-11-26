@@ -53,8 +53,6 @@ More media placements is always good, especially in big or relevant places. But 
 
 Big events like Consensus are good to have presence at, but again did they bring us anything?
 
-Some use price as the metric and "bull market" was mentioned in [Ditto 2](https://proposals.decred.org/proposal/52ea110ea061c72d3b31ed2f5635720b212ce5e3eaddf868d60f53a3d18b8c04) but as of writing I've seen the opposite, with the exception of a modest recovery in early Nov.
-
 Other metrics that naturally come to mind are social media stats: followers, views, likes, etc. I'll cover those in the section about social media.
 
 Now let's move on to vectors I think we should put more efforts into.
