@@ -4,17 +4,17 @@ published_utc: {FIXME}
 
 # Marketing Strategies
 
-The price is low, following and view counts not growing, and people are still not going crazy about Decred all over the place.
+The price is sliding down, following and view counts not growing, and people are still not going crazy about Decred all over the place.
 
 _(^catchy opener there)_
 
-Two proposals from Ditto, Marketing 2019 and Events 2019 are collectively capped at $790,000 for ~1 year of work. (I say "capped" because we don't know how much was actually spent, but this is a separate issue\*). Note that the payments are made at market DCR rates that I find very low, so it is a considerable load on the Treasury. The 4 marketing proposals are around 26% of project's total burn rate of ~$3M/year (this is my rough estimate, corrections appreciated).
+Two proposals for Ditto PR, Marketing 2019 and Events 2019 are collectively capped at $790,000 for ~1 year of work. (I say "capped" because we don't know how much was actually spent, but this is a separate issue\*). Note that the payments are made at market DCR rates that I find very low, so it is a considerable load on the Treasury. The 4 marketing proposals are around 26% of project's total burn rate of ~$3M/year (my rough estimate, corrections appreciated).
 
 The efforts and expenses brought us some good results but some things that I expected didn't happen. I couldn't stop thinking what we are missing. As existing marketing contracts move to their end and we prepare for the next round I think now is a good moment to discuss possible adjustments to marketing strategies. Below are general directions I believe we should consider.
 
 ## Evaluate existing work
 
-First of all we must know how efficient are our existing marketing efforts. For that we need to have good vision of what was done, compare it to deliverables outlined in the proposals, and try to measure the impact. It all starts with reporting.
+First of all we must know how efficient are our existing marketing efforts. For that we need to have good vision of what was done, assess it in terms of deliverables outlined in the proposals, and try to measure the impact. It all starts with reporting.
 
 Ditto reports [twice a month](https://github.com/decredcommunity/proposals/tree/master/pr-ditto/updates), which is amazing and sets an example for all proposals.
 
@@ -24,7 +24,7 @@ As for Events, the high level reporting in DJ is not robust because the summarie
 
 "Why do we need these boring reports, anyway?" you might ask. Because events cost time and money and we need to know if we are spending them well. Compare: monitor a bunch of Twitter accounts, Reddit, search YouTube and filter through chats every day, versus reading a single document [like this](https://github.com/decredcommunity/events/blob/master/reports/20190925-la-conexion-buenos-aires-argentina.md). On top of sharing and understanding which tactics work best, some reports I've processed had interesting insights about the crypto situation around the world.
 
-Note that I'm only judging reporting here and not achievements, which I see all the time. The problem is I don't know which results were funded by which proposals and I don't have a good overview of results. How can we evaluate efficiency without a convenient, thorough and up-to-date summary of the results we evaluate?
+Note that I'm only judging reporting here and not achievements, which I see all the time. The problem is I don't have a good overview of results and don't know which ones were funded by which proposals. How can we evaluate efficiency without a convenient, thorough and up-to-date summary of the results we evaluate?
 
 When it comes to measuring impact, there were fair calls to establish success metrics in [Ditto 1](https://proposals.decred.org/proposal/27f87171d98b7923a1bd2bee6affed929fa2d2a6e178b5c80a9971a92a5c7f50/comments/35), [Ditto 2](https://proposals.decred.org/proposal/52ea110ea061c72d3b31ed2f5635720b212ce5e3eaddf868d60f53a3d18b8c04/comments/1) and [Marketing](https://proposals.decred.org/proposal/c84a76685e4437a15760033725044a15ad832f68f9d123eb837337060a09f86e/comments/23) even before we approved the proposals. The problem I saw back then is that numbers that are often proposed as metrics can be gamed or may not show real things. I viewed those proposals as an experiment that we can only begin to evalute after we do it for some time and collect some results. Now is a good time.
 
@@ -32,7 +32,7 @@ First big item I'd like to see more data on is how efficient was allocating reso
 
 Something I hoped Decred would achieve with investing in marketing is a fair amount of coverage from the ["big ones"](https://bitcoinexchangeguide.com/cryptocurrency-news-websites/) like CoinDesk and CoinTelegraph.
 
-I wouldn't compare with old and well established projects like Bitcoin or Ethereum, but let's compare with smaller projects that seem to have paid PR as well: Stellar, Dash and Zcash. For data points let's take the count of tagged articles in 2019:
+I wouldn't compare to old and well established projects like Bitcoin or Ethereum, but let's compare to smaller projects that seem to have paid PR as well: Stellar, Dash and Zcash. For data points let's take the count of tagged articles in 2019:
 
 site|Stellar|Dash|Zcash|Decred
 :--|--:|--:|--:|--:
@@ -45,9 +45,9 @@ _* For CoinTelegraph I did my best to exclude pure price coverage and insignific
 
 The comparison is not too fair: other projects have higher market cap, have better "connections", have more money to throw at those sites, and they have started doing it much earlier. What it does is provide some context to get the subjective impression that Decred is not covered "enough".
 
-There must be reasons why Decred is not mentioned in major outlets as often as it should, and I'd like to know them. Chances are the game is just rigged and they cannot be known without insider info. More importantly, I'd like to know if these outlets are worth our time. I like CoinDesk much less after its recent "update" that makes pages unreadable without javascript and actively resists snapshots by archiving services.
+There must be reasons why Decred is not mentioned in major outlets as often as it should, and I'd like to know them. Chances are the game is just rigged and they cannot be known without insider info. More importantly, I'd like to know if these outlets are worth our time.
 
-More media placements is always good, especially in big or relevant places. But crypto sites generate crypto articles all the time. Does Decred stand out from hundreds of other coins covered every day? Do we have any view count stats? Did we onboard any significant number of users or investors or devs fia Forbes, Yahoo Finance or CoinDesk?
+More media placements is always good, especially in big or relevant places. But crypto sites generate crypto articles all the time. Does Decred stand out from hundreds of other coins covered every day? Do we have any view count stats, or how many visitors the outlets have directed to our website? Did we onboard any significant number of users or investors or devs fia Forbes, Yahoo Finance or CoinDesk?
 
 (Ok to be fair, we got @cryptoleslie "via" Forbes which was a very valuable addition to the team!)
 
@@ -61,47 +61,47 @@ Now let's move on to vectors I think we should put more efforts into.
 
 ## Money
 
-Use "money" much more often. When explaining Decred, open with "money" or "sound money" and _later_ mention complex terms like "decentralized superior store of value for generations to come", "self-directed digital currency" or "Secure. Adaptable. Sustainable". Don't throw that away - it's all important and I'm glad we [figured it out](https://github.com/decredcommunity/pr/blob/release/foundational-messaging.md). Just don't start with concepts so distant from everyday life. "Money" is even stronger than "currency".
+Use "money" much more often. When explaining Decred, open with "money" or "sound money" and _later_, if the listener is still following, carefully transition to complex terms like "decentralized superior store of value for generations to come", "self-directed autonomous digital currency" or "Secure. Adaptable. Sustainable". Don't throw that away - it's all important and I'm glad we [figured it out](https://github.com/decredcommunity/pr/blob/release/foundational-messaging.md). Just don't start with concepts so distant from everyday life. "Money" is even stronger than "currency".
 
-Talk about what's going on with traditional money\*. Why do prices keep going up regardless of all our technological progress? Talk about the financial crisis of 2008. Talk about the new QE round from the ECB (is it 4th?) and not-QE4-stay-calm from the Fed. Tell that most people work hard to get that cash while some entities get it for free and that it will never stop without a good stimulus. Tell people to look at paper bills and plastic cards they use _every day_, and for the first time _think_ where they come from, who creates it and for how long this can go on until the next major "oops". Remind when and why Bitcoin launched and what did it have in its first block.
+Talk about what's going on with traditional money\*. Why do prices keep going up regardless of all our technological progress? Talk about history of the [gold standard](https://wtfhappenedin1971.com/), [getting rid](http://www.gata.org/node/17081) of it and the financial crisis of 2008. Talk about the new QE round from the ECB (is it 4th?) and not-QE4-stay-calm from the Fed. Tell that most people work hard to get that cash while some entities get it for free. Tell people to look at paper bills and plastic cards they use _every day_, and for the first time _think_ where they come from, who creates it and for how long this can go on until the next major "oops". Remind when and why Bitcoin launched and what did it have in its first block.
 
-When the person begins to appreciate the ideas behind decentralized money, a fair next question is why not just use a more established currency? And then our job is to show the difference. The tagline helps here - we can tell how Decred is more secure, adaptable and sustainable in contrast with other systems.
+When the person begins to appreciate the ideas behind decentralized money, a fair next question is why not just use a more established currency? And then our job is to show the difference. The tagline helps here - we can tell how Decred is more secure, adaptable and sustainable compared to other systems.
 
 My personal favorite killer feature is governance but I don't like the word and it is a challenge to show how awesome it is. In Decred you can _directly_ approve what happens to _your_ money because you are the one risking your wealth using it\*. I can't overstate how simple but mind-blowing it is. I know there is voter apathy all over the world, but in Decred your vote counts for real. Pure PoW systems made huge leap from fiat but as a holder you still have to rely on third parties making good decisions for you. Ironically, crypto was made to remove this trust. Decred, arguably for the first time, gives us a chance to have money that serves _us_\* without security compromises of pure PoS systems.
 
-Because I believe Decred's nearest [major goal](https://www.reddit.com/r/decred/comments/dgck7e/what_is_decreds_end_goal/) is delivering us sound money, I would not _pitch_ it as "DAO" or anything too distant from sound money. When you set the goal to land on the Moon, you get all kinds of amazing inventions and breakthroughs along the way, but your goal is the Moon.
+There are different [opinions](https://www.reddit.com/r/decred/comments/dgck7e/what_is_decreds_end_goal/) but I believe Decred's nearest major goal is delivering us sound money. For this reason I would not _pitch_ it as "DAO" or anything too distant from sound money. When you set the goal to land on the Moon, you get all kinds of amazing inventions and breakthroughs along the way, but your goal is the Moon.
 
 ## Honesty
 
-Be honest about Decred's status. Always be ready to fairly present what we _do_ and _do not_ have yet. Decred is _not_ a good SoV today:
+Be honest about Decred's status. Always be ready to fairly present what we _do_ and _do not_ have. Decred is _not_ a good SoV today:
 
 - It is very volatile, like all crypto.
 - It has low liquidity and moderate exchange adoption. We do get new integrations every month and liquidity is getting better, but still a lot remains to be done.
 - Self-custody UX is a huge pain point. Like in all crypto.
-- [Privacy](https://github.com/decredcommunity/issues/issues/25) is not solved yet. I would argue that voting [address reuse](https://github.com/decred/dcrstakepool/issues/311) made Decred _less private_ than Bitcoin. Glad to see it getting attention now because it is required for Decred's CoinShuffle++ rollout. This has potential for much greater and more accessible privacy than in Bitcoin. 
-- Also important, and let's not ignore it, the price is low. People will get puzzled if you tell them about superior SoV and then show the price chart where it is losing not only against USD, but _also_ against BTC\*.
+- [Privacy](https://github.com/decredcommunity/issues/issues/25) is not solved yet. I would argue that voting [address reuse](https://github.com/decred/dcrstakepool/issues/311) made Decred _less private_ than Bitcoin. Glad to see it getting attention now because it is required for Decred's CoinShuffle++ rollout. This has potential to deliver much greater and more accessible privacy than in Bitcoin. 
+- Also important, and let's not ignore it, the price is low. People will get puzzled if you tell them about superior SoV and then show the price chart where it is losing not only against USD, but _also_ against BTC (this is an important benchmark\*).
 
-I would say that Decred is _building_ a decent SoV and MoE. We build on great _principles_ and we got the incentives right. In this regard Decred is years ahead of the competition, and to me it is the only approach that makes sense and deserves my time. Decred also has a huge lead in technical fundamentals. I would say we're like 40% there in terms of tech, but in terms of awareness and adoption in the economy and society it's &lt;1%. (I made these numbers up for illustrative purposes.)
+I would say that Decred is _building_ a decent SoV and MoE. We build on great _principles_ and we got the incentives right. In this regard Decred is years ahead of the competition, and to me it is the only approach that makes sense and deserves my time. Decred also has a huge lead in technical fundamentals. I would say we're like 30% there in terms of tech, but in terms of awareness and adoption in the economy and society it's &lt;&lt;1%. (I made these numbers up for illustrative purposes.)
 
 ## Value transfer network
 
-Don't omit medium of exchange (MoE) use case from discussions. I believe SoV and MoE depend on each other and don't make sense separately\*.
+Don't omit medium of exchange (MoE) use case from discussions. I believe SoV and MoE depend on each other and don't make sense separately\*. But it's not exactly MoE that I'm after right now.
 
-While DCR is not ready to serve our everyday purchases, it _already_ serves as Transfer of Value (ToV) - the missed step between SoV and MoE\*.
+While DCR is not ready to serve our everyday purchases, it _already_ serves as Transfer of Value tool (ToV) - the missed step between SoV and MoE\*. ToV is different from MoE in that you don't _exchange_ crypto for goods and services but just give it to someone.
 
 Decred and other coins could and should be used _today_ to power great projects that solve urgent problems\*.
 
-I personally use DCR to support one very promising project and it feels so right with every transfer\*\*, compared to just hoarding my DCR. The project is [EOMA68](https://www.crowdsupply.com/eoma68/micro-desktop) and it is building open, upgradeable and cheap computers based on pluggable "computer cards". A computer must serve its _owner_, be auditable down to the bone to earn owner's trust, be upgradeable to encourage reuse, and the whole ecosystem must be designed with long-term mindset to reduce waste _(sounds familiar)_. It's a long road but we desperately need secure devices that we can trust. Or are you going to run sovereign decentralized finance on backdoored laptops and phones? But that's another story\*.
+I personally use DCR to support one very promising project and it feels so right with every transfer\*\*, compared to just hoarding my DCR. The project is [EOMA68](https://www.crowdsupply.com/eoma68/micro-desktop) and it is building open, upgradeable and cheap computers based on pluggable "computer cards". A computer must serve its _owner_, be auditable down to the bone to earn owner's trust, be upgradeable to encourage reuse, and the whole ecosystem must be designed with long-term mindset to reduce waste _(the approach sounds familiar)_. It's a long road but we desperately need secure devices that we can trust. Or are you going to run sovereign decentralized finance on backdoored laptops and phones? But that's another story\*.
 
 Internet allows people to coordinate and share information. Sound and open money allows people to coordinate and share energy.
 
 I want to see Decred as a value transfer network for builders.
 
-We can start small and just tip each other for good contributions\*\*. We can develop a habit to actively reach out to the author and offer a DCR tip when we enjoyed content or a service. We can start right now without waiting for extra features - they will follow the demand. Speaking of features, we can add [tipping to Politeia](https://github.com/decred/politeia/issues/899) to reward good analysis. Tipping activity will increase wallet usage and have a nice side effect of finding more bugs and UX pain points. We'll also need best practices and features to protect privacy because tips link coins to your identities.
+We can start small and just tip each other for good contributions\*\*. We can develop a habit to actively reach out to the author and offer a DCR tip when we enjoyed content or a service. We can start right now without waiting for extra features - they will follow the demand. Speaking of features, we can add [tipping to Politeia](https://github.com/decred/politeia/issues/899) to reward good analysis. Tipping activity will increase wallet usage and have a nice side effect of finding more bugs and UX pain points. We'll also need best practices and features to protect privacy because tips link coins to identities.
 
 Then it could grow beyond Decred community and become a [Hacker](http://www.catb.org/jargon/html/H/hacker.html)'s Coin\*, and then beyond that to connect all builders of this world.
 
-Over time we should adopt/develop software and services that make crypto tipping simple and start competing in the wider tipping market that is rapidly growing but most of the options are centralized and limited (Reddit Gold, Twitch Bits, Patreon, etc).
+Over time we should adopt/develop software and services that make crypto tipping and donations simple and start competing in the wider market that is rapidly growing but most of the options are centralized and limited (Reddit Gold, Twitch Bits, Patreon, etc).
 
 _It must flow._
 
@@ -115,7 +115,7 @@ This strategy is radically different from waiting mass media readers to grow up 
 
 There are many communities that are already aligned with Decred community's values yet we are not in touch with them. Just to name a few topics, I mean groups who deeply care about: sovereignty, financial sovereignty, unorthodox (non-brainwashed) economic schools, sound monetary policy, building and maintaining critical open source/free software (and hardware!), privacy, building better protocols and services without "surveillance included", small government, stopping consumer/short-term/waste culture, [P2P folks](https://p2pfoundation.net/), changing the [way we work](https://howwegettonext.com/reversing-the-lies-of-the-sharing-economy-a85501d14be8) via better ownership and governance models, off-grid living, etc.
 
-My theory is that these people are much closer to appreciating Decred, and are more likely to become users, supporters and stakeholders.
+My theory is that these people are much closer to appreciating Decred and are more likely to become users, supporters and stakeholders.
 
 To prepare, train quality representatives/[ambassadors](https://github.com/decredcommunity/issues/issues/48) and craft any missing [messaging](https://github.com/decredcommunity/pr) to address those groups. Then go to them and let them know what we're building, and stay in touch in case they wish to learn more.
 
@@ -129,7 +129,7 @@ Many such projects have small user bases so it may not boost Decred's adoption t
 
 ## Grow our social media
 
-Social media stats is often the first thing we look at to estimate the size of the community and the success of the project. Let's look at Decred's latest bi-monthly follower counts for English platforms:
+Social media stats are often the first thing we check to estimate the size of the community and the success of the project. Let's look at Decred's bi-monthly follower counts for English platforms:
 
 platform|Dec 18|Feb 19|Apr 19|Jun 19|Aug 19|Oct 19
 ---|--:|--:|--:|--:|--:|--:
@@ -143,11 +143,11 @@ Discord|||2,124|2,257|2,377|2,487
 
 Compare this to Murad's [Twitter](https://twitter.com/MustStopMurad) account that went from [31K](https://archive.today/0V21f) to [66K](https://archive.today/2n26G) followers between Jan and Oct 2019. Among projects, [BAT](https://twitter.com/attentiontoken) gained 107K followers since Mar 2017 (it's younger than Decred).
 
-Every month there's an inflow and outflow of followers. If you're idle and do nothing with your account you'll slowly lose them. Decred staying flat is not too bad but is not a good signal either.
+Every month there's an inflow and outflow of followers. If you're idle and do nothing with your account they will gradually unsubscribe. Decred staying flat is not too bad but is not a good signal either.
 
 A nice recent activity is that Ditto began to actively mobilize our community to make an impact on social media. But shouldn't it reflect on follower counts? Or perhaps there are other metrics that are not publically visible? It would be good to know.
 
-There is one big gotcha with these numbers: they can be pumped in many questionable ways, down to just [buying](https://buyfollowersguide.com/twitter-followers/) them from special services. This means a few things for us. First, any gains of fake following can be wiped out as we have seen on Twitter. Second, we cannot know if the gains are fake or real, they are not representative of the real size or engagement of the community. Most importantly, we should not blindly chase these numbers or use them to evaluate our work. They should be carefully used as one signal among many others.
+There is one big gotcha with these numbers: they can be pumped in many questionable ways, down to just [buying](https://buyfollowersguide.com/twitter-followers/) them from special services. This means a few things. First, any gains of fake following can be wiped out as we have seen on Twitter. Second, we cannot know if the gains are fake or real. Follower counts may not represent real size or engagement of the community. We should not blindly chase these numbers or use them to evaluate work. They should be carefully used as one signal among many others.
 
 We often focus on Twitter but we really need to think beyond this one platform. Quoting @pablito's DCR Comic [proposal](https://proposals.decred.org/proposals/2ef74fa5f0b558442cb85b1235c8c551a51ff5d8b8de44dead48b8b59c8fc1de):
 
@@ -157,7 +157,7 @@ We often focus on Twitter but we really need to think beyond this one platform. 
 
 Good news from Brazilian Decred community is their Facebook has ~6K followers and ~2.5K active followers in a 7-day window. It also has an elaborate joining process that is harder to fake by bots.
 
-Social media has become extremely important. Part of the reason is that traditional media has failed at its job of informing people of important things without garbage biases and pay-to-play games. There are news groups and business who successfully operate and grow exclusively through social media.
+Social media has become extremely important. Part of the reason is that traditional media has failed at its job of informing people of important things without biases and pay-to-play games. There are news groups and business who successfully operate and grow exclusively through social media.
 
 I don't really like existing social media platforms because they are all centralized and all march towards censorship of "wrong" ideas. I hope the decentralization movement will build better ones. But to spread awareness today we need presence on today's platforms, just as we need fiat on/off ramps for crypto until most of the world starts accepting it directly.
 
@@ -169,19 +169,19 @@ Based on the above, I think we should
 - Develop guidelines how to grow communities (big first step is done with the release of community organizer [guide](https://github.com/decredcommunity/guidelines/blob/master/community-organizer-playbook.md)).
 - Staff and fund more accounts. Many accounts are [outdated](https://github.com/decredcommunity/textassets) and are not active enough. A successful account requires a ton of consistent work to maintain a healthy pulse of updates and to talk to its community. Without solid coordination and funding our accounts will be dusty and rely on volunteers that come and go.
 - Try less popular but more promising platforms like Mastodon or those P2P YouTube replacements. They might have higher "conversion" ratio, and if they succeed and obsolete centralized platforms, we'll be in a good position among the pioneers.
-- Find out inflow and outflow numbers for all platforms.
+- Find out inflow and outflow numbers for all accounts.
 - Set up collection and visualization of stats and make the data available to our researchers. This was one of the proposed [research directions](https://proposals.decred.org/proposals/5d9cfb07aefb338ba1b74f97de16ee651beabc851c7f2b5f790bd88aea23b3cb/comments/13) but it didn't collect enough upvotes. I think it's still relevant.
-- Look into sentiment analysis [like this](https://www.reddit.com/r/decred/comments/dq79s8/decred_social_stats/) (there are several projects mining this kind of data).
+- Look into sentiment analysis [like this](https://www.reddit.com/r/decred/comments/dr84e3/decred_social_movements_today/) (there are several projects mining this kind of data).
 
 ## Leverage others' social media
 
-There are many personalities with large and/or highly relevant social media following, both in the crypto scene and beyond.
+There are many personalities with large and/or highly relevant audiences, both in the crypto scene and beyond.
 
 We have began engaging with crypto celebs on Twitter. Not without some coordination help from Ditto, and more guidance is being developed.
 
 I suggest to not limit ourselves to Twitter and in general to the crypto scene that I believe is still quite of an echo chamber. Instead, engage with anyone who could benefit from Decred _today_.
 
-Let's look at YouTube. PewDiePie recently broke 100 million subscribers despite the legacy media trying to crush him with their bullshit. Even YouTube itself, instead of actively supporting their biggest celebrity, often demonetizes his videos for lame reasons. This happens to many, many content creators and "because of the YouTube algorithm" is now a meme hinting at opaque rules of the platform. One [study](https://twitter.com/coffeebreak_YT/status/1130854871370878977) exposed how "edgy" content is being [suppressed](https://reclaimthenet.org/youtube-suppresses-pewdiepie-trending-tab/) in the U.S. and how legacy news outlets managed to dominate the ["Trending"](https://support.google.com/youtube/answer/7239739?hl=en) listing with much lower effort. Tubers often joke about their own demonetization and actively sell merch to lower their dependency on YouTube payouts. In attempts to remove YouTube's cryptic "algorithm" from financial relationships with their audience some turned to Patreon to get funded "directly". But recent history has shown that if you have wrong ideas you can get [deplatformed](https://bitcoinist.com/patreon-mastercard-ban-bitcoin/) by the well coordinated group of companies, for incomprehensible reasons, and get your funding channels cut.
+Let's look at YouTube. PewDiePie recently broke 100 million subscribers despite the legacy media trying to crush him with their bullshit. Even YouTube itself, instead of actively supporting their biggest celebrity, often demonetizes his videos for lame reasons. This happens to many, many content creators and "because of the YouTube algorithm" is now a meme hinting at opaque rules of the platform. One [study](https://twitter.com/coffeebreak_YT/status/1130854871370878977) has exposed how "edgy" content is being [suppressed](https://reclaimthenet.org/youtube-suppresses-pewdiepie-trending-tab/) in the U.S. and how legacy news outlets managed to dominate the ["Trending"](https://support.google.com/youtube/answer/7239739?hl=en) list with much lower effort than independent creators. Tubers often joke about their own demonetization and actively sell merch to lower their dependency on YouTube payouts. In attempts to remove YouTube's cryptic "algorithm" from financial relationships with their audience some turned to Patreon to get funded "directly". But recent history has shown that if you have wrong ideas you can get [deplatformed](https://bitcoinist.com/patreon-mastercard-ban-bitcoin/) by the well coordinated group of companies, for incomprehensible reasons, and get your funding channels cut.
 
 Now, any crypto user seeing that would roll his eyes: "Just use crypto, goddammit! Throw these middlemen out of the window! Exchange with your folks directly!". Believe it or not, most content creators still don't know about crypto and depend on ugly ad revenues. I guess people who experienced "specifics" of these platforms firsthand will be the first to discover crypto, but why wait? It can and should serve them today.
 
@@ -189,7 +189,7 @@ Now, any crypto user seeing that would roll his eyes: "Just use crypto, goddammi
 
 A few vectors I would try:
 
-- Buy these new "manual ads" from YouTubers where they read it out loud with their own voice, often in an entertaining way. This is quite different from the old random annoying banners or equally annoying video ads injected by YouTube. If people already advertise the eToro crypto trading platform in their videos, why couldn't Decred be there? 
+- Buy these new "manual ads" from YouTubers where they read it out loud with their own voice, often in entertaining ways. This is quite different from the old random annoying banners or equally annoying video ads injected by YouTube. If people already advertise the eToro crypto trading platform in their videos, why couldn't Decred be there? 
 - Suggest DCR to content creators as an extra channel to receive tips and donations, as a way to connect with their followers more directly, and as a backup in case of any misbehavior from the gatekeepers. They will need our help to get past the conceptual and UX barriers.
 
 ## Connect with relevant concepts
@@ -221,7 +221,7 @@ To stay cool, focused and productive (you want the change, right?) I recommend:
   - Focus on problems, decisions and actions, not personalities.
   - Do not fear to communicate, share and negotiate\*. The information must flow.
   - There are cases when sensitive information must not be disclosed until a certain point, but after that it should be openly discussed.
-- Stay sober, do not overfocus on _some_ negative trends (price, social media metrics) and become blind to all the positive ones (more conversations about Decred, more investors, more devs, more research, more events all over the world, network is healthy, dev never stops, etc - I hope you read [DJ](https://xaur.github.io/decred-news/)!)
+- Stay sober. Do not overfocus on _some_ negative trends (price, media metrics) and become blind to all the positive ones (more conversations about Decred, more investors, more devs, more research, more events all over the world, network is healthy, dev never stops, etc - I hope you read [DJ](https://xaur.github.io/decred-news/)!)
 
 ## More hands
 
@@ -231,8 +231,8 @@ There are many directions to explore and a million things to do. We need more ha
 
 Thanks for your attention!
 
-If you see value in my perspective, or would like to signal that I should finish my drafts (\*) sooner, or if you would like to experience the joy of permissionless value transfer today (\*\*), I'll happily accept tips here:
+If you see value in my perspective, want to signal that I should finish my drafts (\*) sooner, or if you would like to experience the joy of permissionless value transfer today (\*\*), I'll happily accept tips here:
 
 {D...}
 
-_Thanks to Dustorf, emiliomann, jz, michae2xl, praxis and richardred for their feedback_
+_Thanks to Dustorf, emiliomann, jz, michae2xl, praxis and richardred for their feedback._
