@@ -1,9 +1,8 @@
 ---
+title: "Dissection: Market makers for Decred"
 published_utc: 2019-08-22
 updated_utc: 2019-08-22
 ---
-
-# Dissection: Market makers for Decred
 
 _Updated 2019-08-22: removed unverified claim (see [Updates](#updates))_
 
