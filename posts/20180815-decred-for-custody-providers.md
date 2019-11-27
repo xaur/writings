@@ -1,10 +1,9 @@
 ---
+title: Decred for Custody Providers
 published_utc: 2018-08-15
 published_url: https://medium.com/decred/decred-for-custody-providers-57451f6e53e2
 updated_utc: 2018-08-27
 ---
-
-# Decred for Custody Providers
 
 This document makes the case that Decred is a perfect match for cryptocurrency custody providers.
 
@@ -23,9 +22,9 @@ Key points for custody provider:
 * Low risk: working product, live 2+ years, hard fork resistance, clean and tested codebase, active development
 * Good PR for supporting innovative projects that solve hard problems, deliver and stay around
 
-# For the Clients
+## For the Clients
 
-## Client funds secured by robust tech
+### Client funds secured by robust tech
 
 Decred is not a utility token, its domain is store of value. Therefore its top priority is the security of value storage and transmission.
 
@@ -37,7 +36,7 @@ Clients who prioritize security of their funds will appreciate the following tec
 * Mainnet is working for 2 years with no major issues.
 * High code quality. Codebase is well tested and documented, written in modern programming language (Go) that eliminates a whole class of memory-related bugs.
 
-## Voting rights and rewards
+### Voting rights and rewards
 
 Holders of Decred may choose to participate in the project's governance by time-locking DCR to buy tickets. Ticket-voting is Decred's way of making decisions about how the network [evolves technically](https://docs.decred.org/getting-started/user-guides/agenda-voting/), and in the near future how the project fund is spent.
 
@@ -53,7 +52,7 @@ A custody provider is in the perfect position to maintain always running wallets
 
 For clients, this system is an opportunity to increase the value of their holdings by making good decisions about the future of Decred.
 
-## Store value
+### Store value
 
 Decred is consistently in top positions in [% down from all-time high](https://onchainfx.com/v/nzhsrD) chart.
 
@@ -66,15 +65,15 @@ Clients of custodian services are likely to look for long term storage. Even if 
 * The community is organically growing and helping each other.
 * More reasons why people choose Decred are collected in [this compilation](https://medium.com/decred/why-decred-let-the-community-tell-you-5479929e35d2) of community feedback.
 
-# For the Provider
+## For the Provider
 
-## Attract clients by offering a unique service
+### Attract clients by offering a unique service
 
 The custody provider is in the position to offer a unique service that is only possible in Decred.
 
 Implementing custodial voting requires more engineering effort compared to just custodial storage, but there are many developers that can help with advice and some software already [exists](https://github.com/decred/dcrstakepool) that can be used as a starting point.
 
-## Earn voting fees on top of custody fees
+### Earn voting fees on top of custody fees
 
 There are two actions that Decred holders could delegate to a custody provider.
 
@@ -84,20 +83,20 @@ There are two actions that Decred holders could delegate to a custody provider.
 
 Custody provider could perform both actions on behalf of clients in exchange for a service fee.
 
-## Developers
+### Developers
 
 The developers of Decred have first-hand, proven experience of building blockchain software since 2013 when they developed btcsuite, a from-scratch Bitcoin implementation written in Go language.
 
 They can be easily reached almost any day. In addition, there is an active support channel for non-development questions.
 
-## Low risk
+### Low risk
 
 * Decred mainnet is live since Feb 2016 and several fundamental promises are already delivered. It is not a whitepaper or promiseware temporary token.
 * It is in active development with dozens of developers around the world.
 * It is [resistant to hard forks](https://www.reddit.com/r/decred/comments/7f9ie1/detailed_analysis_of_decred_fork_resistance/) not approved by holders.
 * Clean, tested and documented codebase.
 
-## Good PR
+### Good PR
 
 Decred tackles hard problems: secure store of value and decentralized trustless decision making. Supporting innovative projects that deliver and stay around is a contribution to the whole space, and therefore a good basis for positive public perception. Decred itself has this philosophy of preferring approaches that benefit the space.
 
